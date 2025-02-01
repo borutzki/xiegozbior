@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Prolog"
+categories: info
+date: 2025-02-01
+author:
+- Kacper Borucki
+---
+
+Cześć!
+
+Minął pierwszy miesiąc roku dwudziestego pią†ego. pora na realizację jednego z zaplanowanych przeze mnie projektów: bloga / bookstagrama / portalu na temat książek. Czego się spodziewać i skąd nazwa *Xięgozbiór*? Pozwólcie mi wyjaśnić.
+
+## Kwestia nazwy
+
+Słowo *Xięgozbiór* to archaizm nawiązujący do staropolskiego sposobu zapisu niektórych wyrazów. Współcześnie piszemy *Księgozbiór*, ale - jak można było się spodziewać - ta nazwa od dawna jest zajęta na większości platform. Podobnie jak wszystkie inne, które wcześniej chciałem wykorzystać.
+
+## O czym będzie *Xięgozbiór*?
+
+*Xięgozbiór* przede wszystkim ma być miejscem, w którym chcę dzielić się przeczytanymi książkami, jednocześnie nie zabierając swoim czytelnikom zbyt dużo czasu, który mogliby spędzić czytając coś innego, na przykład książki.
+
+Dlatego przewiduję trzy podstawowe kategorie wpisów:
+
+1. **Zajawki**: krótkie wpisy przedstawiające z grubsza mocne i słabe strony książki, którą ostatnio przeczytałem.
+2. **Recenzje**: od czasu do czasu opiszę bardziej szczegółowo jakąś książkę wartą polecenia (lub krytyki).
+3. **Zestawienia**: gdy uzbiera mi się kilka książek w jednym temacie, postaram się zestawić je w jednym wpisie.
+
+Co do samych książek - wybór jest i będzie arbitralny, bez wiązania się z konkretnym gatunkiem czy tematem.
+
+## O czym nie będzie *Xięgozbiór*?
+
+Nie planuję tu wrzucać treści sponsorowanych. Gdyby to uległo zmianie (w co wątpię), będę jasno informować.
+
+Nie zamierzam też na bieżąco czytać i recenzować aktualnych bestsellerów i premier. Od tego mamy krytyków na większych portalach. Pewnie czasem zdarzy mi się przeczytać i opisać coś tuż po premierze, ale to będzie standard.
+
+Sugerowałbym też nie spodziewać się tu zbyt wielu obrazków...
+
+## O czym będzie albo nie będzie *Xięgozbiór*?
+
+Kwestiami otwartymi w chwili stawiania tego bloga pozostają:
+
+- czy włączę komentarze na stronie `xiegozbior.pl`?
+- czy zacznę robić wpisy o konkretnych tematach, na podstawie przeczytanych książek?
+- na których platformach społecznościowych założę profile?
+
+---
+
+## Post Scriptum
+
+Jeżeli macie jakieś sugestie, pomysły na wpisy czy rekomendacje książek do przeczytania, na dole strony zostawiam kontaktowy adres e-mail. ✉️
+
+Zachęcam do obserwowania w social mediach lub subskrybowania przez RSS! ✅
+
+Kacper Borucki, autor *Xięgozbioru*. 📚

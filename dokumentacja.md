@@ -20,3 +20,9 @@ bundle install
 ```bash
 bundle exec jekyll serve
 ```
+
+## Logotyp
+
+- czcionka `Pirata`
+- kolory czarno-białe: `ffffff` oraz `000000`
+- przy rozmiarze obrazka `2500px x 2500px`, grubość obramki w logo: `100px`

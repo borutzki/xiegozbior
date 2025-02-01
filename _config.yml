@@ -18,24 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Oczytany Blog
+title: Xięgozbiór
 description: >- # this means to ignore newlines until "baseurl:"
   Mikroblog o książkach, bez lania wody.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
   - about.md
-author: 
+author:
   name: Kacper Borucki
   email: some@email.com
 show_excerpts: true
 minima:
   skin: solarized-light
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  # social_links:
+  social_links:
+    - { platform: instagram, user_url: "https://www.instagram.com/xiegozbior" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
@@ -43,7 +40,6 @@ plugins:
   #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
@@ -53,6 +49,11 @@ plugins:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
 
 theme: minima
 remote_theme: jekyll/minima

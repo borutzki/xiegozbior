@@ -29,14 +29,15 @@ author:
   name: Kacper Borucki
   email: xiegozbior@gmail.com
 show_excerpts: true
+logo: "assets/logotypy/xiegozbior_logotyp_na_strone.png"
 minima:
-  skin: solarized-light
+  skin: classic
   social_links:
     - { platform: instagram, user_url: "https://www.instagram.com/xiegozbior" }
-    - { platform: goodreads, user_url: "https://www.google.com" }
+    # - { platform: goodreads, user_url: "https://www.google.com" }
     # - {
     #     platform: lubimyczytac,
-    #     user_url: "https://borutzki.github.io",
+    #     user_url: "google.com",
     #   }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
@@ -59,6 +60,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 theme: minima
 remote_theme: jekyll/minima

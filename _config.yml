@@ -27,12 +27,17 @@ header_pages:
   - about.md
 author:
   name: Kacper Borucki
-  email: some@email.com
+  email: xiegozbior@gmail.com
 show_excerpts: true
 minima:
   skin: solarized-light
   social_links:
     - { platform: instagram, user_url: "https://www.instagram.com/xiegozbior" }
+    - { platform: goodreads, user_url: "https://www.google.com" }
+    # - {
+    #     platform: lubimyczytac,
+    #     user_url: "https://borutzki.github.io",
+    #   }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }

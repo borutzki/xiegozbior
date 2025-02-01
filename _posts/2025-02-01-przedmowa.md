@@ -9,7 +9,7 @@ author:
 
 Cześć!
 
-Minął pierwszy miesiąc roku dwudziestego pią†ego. pora na realizację jednego z zaplanowanych przeze mnie projektów: bloga / bookstagrama / portalu na temat książek. Czego się spodziewać i skąd nazwa *Xięgozbiór*? Pozwólcie mi wyjaśnić.
+Minął pierwszy miesiąc roku dwudziestego piątego. pora na realizację jednego z zaplanowanych przeze mnie projektów: bloga / bookstagrama / portalu na temat książek. Czego się spodziewać i skąd nazwa *Xięgozbiór*? Pozwólcie mi wyjaśnić.
 
 ## Kwestia nazwy
 

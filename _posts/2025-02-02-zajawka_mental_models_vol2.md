@@ -28,4 +28,5 @@ Koniec końców, jestem skłonny polecić "*The Great Mental Models Volume 2*" 
 ## Dodatkowe linki
 
 - [Strona książki na Goodreads](https://www.goodreads.com/book/show/52200318-the-great-mental-models-volume-2)
+- [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5177823/the-great-mental-models-volume-2-physics-chemistry-and-biology)
 - [Strona książki na Amazon](https://www.amazon.com/Great-Mental-Models-Physics-Chemistry/dp/1999449037)

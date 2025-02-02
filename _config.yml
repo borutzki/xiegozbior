@@ -33,6 +33,7 @@ logo: "assets/logotypy/xiegozbior_logotyp_na_strone.png"
 minima:
   skin: classic
   social_links:
+    - { platform: facebook, user_url: "https://www.facebook.com/xiegozbior" }
     - { platform: instagram, user_url: "https://www.instagram.com/xiegozbior" }
     # - { platform: goodreads, user_url: "https://www.google.com" }
     # - {
@@ -41,7 +42,6 @@ minima:
     #   }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }

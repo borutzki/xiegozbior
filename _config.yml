@@ -35,7 +35,11 @@ minima:
   social_links:
     - { platform: facebook, user_url: "https://www.facebook.com/xiegozbior" }
     - { platform: instagram, user_url: "https://www.instagram.com/xiegozbior" }
-    # - { platform: goodreads, user_url: "https://www.google.com" }
+    - {
+        platform: lubimyczytac,
+        user_url: "https://lubimyczytac.pl/profil/2536181/xiegozbior",
+      }
+    - { platform: goodreads, user_url: "https://www.goodreads.com/xiegozbior" }
     # - {
     #     platform: lubimyczytac,
     #     user_url: "google.com",

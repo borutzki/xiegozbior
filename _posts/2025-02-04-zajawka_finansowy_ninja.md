@@ -11,7 +11,7 @@ isbn: 978-83-65308-05-4
 tags: ["Michał Szafrański"]
 ---
 
-Z zakupem "*Finansowego Ninja*" Michała Szafrańskiego zbierałem się od dłuższego czasu, aż w końcu dostałem ten tytuł pod choinkę. Oczekiwania: rzetelna książka o oszczędzaniu, zarabianiu i być może inwestowaniu pieniędzy. W polskich realiach. Może brakować aktualnych informacji, bo wydanie pochodzi z 2019 roku. A jak rzeczywistość?
+**Z zakupem "*Finansowego Ninja*" Michała Szafrańskiego zbierałem się od dłuższego czasu, aż w końcu dostałem ten tytuł pod choinkę. Oczekiwania: rzetelna książka o oszczędzaniu, zarabianiu i być może inwestowaniu pieniędzy. W polskich realiach. Może brakować aktualnych informacji, bo wydanie pochodzi z 2019 roku. A jak rzeczywistość?**
 
 <!--more-->
 
@@ -23,15 +23,16 @@ Niezależnie od tego, co bym powiedział, "*Finansowy Ninja*" to bardzo dobry ty
 
 Dlatego podsumuję krótko: szkoda, że nie przeczytałem tej książki co najmniej 5 lat temu. Wtedy miałoby to dużo więcej sensu.
 
-![Okładka książki zgodnie z tym, jak pokazał ją Kindle](/assets/xiazki/shane_parrish_great_mental_models_volume_2.jpg)
+![Okładka książki "*Finansowy Ninja*"](/assets/xiazki/michal_szafranski_finansowy_ninja.jpg)
 
 ## Warto przeczytać również
 
-1. Marcin Iwuć - "*Finansowa Forteca*"
-2. Mateusz Samołyk - "*Inwestowanie Dla Każdego*"
+1. **Marcin Iwuć - "*Finansowa Forteca*"**: przystępne i jednocześnie szczegółowe omówienie różnych rodzajów aktywów i innych narzędzi finansowych.
+2. **Mateusz Samołyk - "*Inwestowanie Dla Każdego*"**: pragmatyczne wprowadzenie do inwestowania pasywnego, z naciskiem na budowę portfela.
+3. **Blog ["*Jak Oszczędzać Pieniądze*" Michała Szafrańskiego](https://jakoszczedzacpieniadze.pl/)**: choć od pewnego czasu nieaktywny, to nadal stanowi niezłe źródło wiedzy, rozszerzające książkę "*Finansowy Ninja*".
 
 ## Dodatkowe linki
 
-- [Strona książki na Goodreads](https://www.goodreads.com/book/show/52200318-the-great-mental-models-volume-2)
-- [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5177823/the-great-mental-models-volume-2-physics-chemistry-and-biology)
-- [Strona książki na Amazon](https://www.amazon.com/Great-Mental-Models-Physics-Chemistry/dp/1999449037)
+- [Strona książki na Goodreads](https://www.goodreads.com/book/show/53005904-finansowy-ninja)
+- [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/314304/finansowy-ninja)
+- [Oficjalna strona książki "*Finansowy Ninja*"](https://finansowyninja.pl/)

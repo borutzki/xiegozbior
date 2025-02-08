@@ -9,7 +9,7 @@ start: 2025-01-19
 end: 2025-01-22
 isbn: 978-83-8360-055-0
 tags: ["Johan Norberg"]
-ocena: 5
+ocena: 4
 ---
 
 **Gdy na półce w Empiku zobaczyłem "*Manifest Kapitalistyczny. Jak wolny rynek uratuje świat*" Johana Norberga na wyprzedaży, zaintrygował mnie tytuł. Sprawdziłem blurb z tyłu. Wynikało z niego coś, z czym kompletnie się nie zgadzam. Cóż, nie mogłem się oprzeć - kupiłem.**

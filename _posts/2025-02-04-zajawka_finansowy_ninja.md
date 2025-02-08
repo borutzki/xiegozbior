@@ -9,6 +9,7 @@ start: 2025-01-04
 end: 2025-01-17
 isbn: 978-83-65308-05-4
 tags: ["Michał Szafrański"]
+ocena: 6
 ---
 
 **Z zakupem "*Finansowego Ninja*" Michała Szafrańskiego zbierałem się od dłuższego czasu, aż w końcu dostałem ten tytuł pod choinkę. Oczekiwania: rzetelna książka o oszczędzaniu, zarabianiu i być może inwestowaniu pieniędzy. W polskich realiach. Może brakować aktualnych informacji, bo wydanie pochodzi z 2019 roku. A jak rzeczywistość?**

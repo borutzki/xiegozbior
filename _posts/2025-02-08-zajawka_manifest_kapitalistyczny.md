@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Johan Norberg - Manifest kapitalistyczny"
+title: "Johan Norberg - Manifest Kapitalistyczny"
 category: zajawki
 date: 2025-02-08
 author: Kacper Borucki

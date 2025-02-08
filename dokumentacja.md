@@ -35,3 +35,25 @@ Testowo ustawiłem `Palatino`, ale być może się to zmieni.
 
 Tu poradnik z którego korzystam do dodawania nowych ikonek w stopce:
 <https://blog.jakelee.co.uk/adding-new-social-media-link-to-minima/>
+
+## Publikowanie
+
+1. Instagram
+2. Facebook
+3. Goodreads
+4. Lubimyczytac
+
+> Więcej: pomyśleć
+
+### Instagram
+
+1. Kopiuj-wklej bez linków i podobnych książek.
+2. Dodaj zdjęcie z wpisu.
+3. Dodaj hashtagi.
+4. Dodaj story z linkiem.
+
+### Facebook
+
+1. Kopiuj-wklej
+
+- [ ]

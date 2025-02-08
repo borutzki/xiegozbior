@@ -12,7 +12,7 @@ tags: ["Shane Parrish", "Farnam Street"]
 ocena: 6
 ---
 
-Na pierwszy ogień idzie pierwsza książka, którą skończyłem czytać w tym roku. Shane Parrish w "*The Great Mental Models Volume 2: Physics, Chemistry and Biology*" prezentuje różne podstawowe koncepcje z dziedzin fizyki, chemii i biologii i pokazuje, że analogiczne do nich zjawiska można zaobserwować również w życiu codziennym.
+**Na pierwszy ogień idzie pierwsza książka, którą skończyłem czytać w tym roku. Shane Parrish w "*The Great Mental Models Volume 2: Physics, Chemistry and Biology*" prezentuje różne podstawowe koncepcje z dziedzin fizyki, chemii i biologii i pokazuje, że analogiczne do nich zjawiska można zaobserwować również w życiu codziennym.**
 
 <!--more-->
 

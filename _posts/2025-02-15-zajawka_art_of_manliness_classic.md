@@ -9,7 +9,7 @@ start: 2025-01-19
 end: 2025-01-22
 isbn: N/A
 tags: ["Brett McKay", "Kate McKay"]
-ocena: 
+ocena: 4
 ---
 
 **Czasami czytam książki swoich ulubionych blogerów. Dlatego zabrałem się za pozycję "*The Art Of Manliness: Classic Skills and Manners for the Modern Man*", której autorami są Brett i Kate McKay, twórcy bloga o wymownej nazwie *Art of Manliness*. Czy było warto?**
@@ -22,7 +22,7 @@ Tematów jest tu wiele. Niektóre przyziemne: "jak zawiązać krawat na 3 sposob
 
 Powyższe zdanie to tylko pierwsza wada tej książki. Jakie są inne? Podrozdziały najprawdopodobniej są przeredagowanymi wpisami z bloga, więc czytelnik nie zyskuje nic, czego by na nim nie przeczytał. Autor chwali pierwszą połowę XX wieku i czasy wiktoriańskie jako pik elegancji i dobrych manier, co ogranicza uniwersalność porad w tych kwestiach. W wielu podrozdziałach brakuje obrazków wyjaśniających jak coś zrobić. W innych pojawiają się kompletnie zbędne (np. "jak krytykować konstruktywnie").
 
-Suma sumarum, "*Classic Skills and Manners...*" to książka z której można wyciągnąć pewną wartość i garść sensownych porad życiowych na różne okazje, ale nie potrafię jej brać na poważnie. Dobre rady przemieszane są z kompletnym laniem wody, a na koniec dostajemy niepasujący rozdział o wartościach, którymi kierował się Benjamin Franklin. Jeżeli kogoś interesuje ta tematyka, to polecam raczej oryginalnego bloga niż ten tomik.
+Summa summarum, "*Classic Skills and Manners...*" to książka z której można wyciągnąć pewną wartość i garść sensownych porad życiowych na różne okazje, ale nie potrafię jej brać na poważnie. Dobre rady przemieszane są z kompletnym laniem wody, a na koniec dostajemy niepasujący rozdział o wartościach, którymi kierował się Benjamin Franklin. Jeżeli kogoś interesuje ta tematyka, to polecam raczej oryginalnego bloga niż ten tomik.
 
 ![Okładka książki "*The Art Of Manliness: Classic Skills and Manners for the Modern Man*"](/assets/xiazki/brett_mckay_aom_classic_skills_and_manners.jpg)
 

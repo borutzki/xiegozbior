@@ -5,11 +5,11 @@ category: zajawki
 date: 2025-02-15
 author: Kacper Borucki
 excerpt_separator: <!--more-->
-start: 2025-01-19
-end: 2025-01-22
+start: 2025-01-25
+end: 2025-02-09
 isbn: N/A
 tags: ["Brett McKay", "Kate McKay"]
-ocena: 4
+ocena: 3
 ---
 
 **Czasami czytam książki swoich ulubionych blogerów. Dlatego zabrałem się za pozycję "*The Art Of Manliness: Classic Skills and Manners for the Modern Man*", której autorami są Brett i Kate McKay, twórcy bloga o wymownej nazwie *Art of Manliness*. Czy było warto?**

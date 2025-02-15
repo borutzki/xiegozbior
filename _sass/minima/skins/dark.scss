@@ -3,3 +3,7 @@
 $color-scheme-auto: false;
 $color-scheme-dark: true;
 @import "minima/skins/auto";
+
+.site-logo {
+    filter: invert(1);
+}

@@ -43,17 +43,80 @@ Tu poradnik z którego korzystam do dodawania nowych ikonek w stopce:
 3. Goodreads
 4. Lubimyczytac
 
-> Więcej: pomyśleć
-
 ### Instagram
 
-1. Kopiuj-wklej bez linków i podobnych książek.
-2. Dodaj zdjęcie z wpisu.
-3. Dodaj hashtagi.
-4. Dodaj story z linkiem.
+- [ ] Nowy post: zdjęcie z wpisu
+- [ ] Kopiuj-wklej zajawki
+- [ ] Dodaj hashtagi
+- [ ] Oznacz wydawnictwo i autora (jeżeli opinia jest bardziej pozytywna niż negatywna)
+- [ ] Publikuj
+
+- [ ] Stwórz story z linkiem
 
 ### Facebook
 
-1. Kopiuj-wklej
+- [ ] Nowy post: zdjęcie z wpisu
+- [ ] Dodaj tytuł z wpisu na początku postu
+- [ ] Kopiuj-wklej zajawki
+- [ ] Dodaj link do wpisu (template poniżej)
+- [ ] Dodaj hashtagi
+- [ ] Oznacz wydawnictwo i autora (jeżeli opinia jest bardziej pozytywna niż negatywna)
+- [ ] Publikuj
 
-- [ ]
+```txt
+Autor - Tytuł Książki
+
+<zajawka>
+
+Oryginalny wpis:
+<link>
+
+#hashtagi
+```
+
+### Goodreads
+
+- [ ] Kopiuj-wklej zajawki
+- [ ] Dodaj link do wpisu (template poniżej)
+- [ ] Dodaj daty przeczytania i opinię
+- [ ] Publikuj
+
+```txt
+<zajawka>
+
+Oryginalny wpis:
+<link>
+```
+
+### LubimyCzytac
+
+- [ ] Kopiuj-wklej zajawki
+- [ ] Dodaj link do wpisu (template poniżej)
+- [ ] Dodaj datę przeczytania i opinię
+- [ ] Publikuj
+
+```txt
+<zajawka>
+
+Oryginalny wpis:
+<link>
+```
+
+### Mastodon
+
+- [ ] Nowy post: zdjęcie z wpisu
+- [ ] Dodaj tytuł z wpisu na początku postu
+- [ ] Pierwszy akapit zajawki
+- [ ] Oryginalny wpis: Link do wpisu
+- [ ] Dodaj hashtagi
+
+```txt
+Autor - Tytuł 
+
+<akapit zajawki>
+
+Oryginalny wpis:
+<link>
+
+#hashtagi
+```

@@ -44,6 +44,7 @@ minima:
   social_links:
     - { platform: facebook, user_url: "https://www.facebook.com/xiegozbior" }
     - { platform: instagram, user_url: "https://www.instagram.com/xiegozbior" }
+    - { platform: mastodon, user_url: "https://pol.social/@xiegozbior" }
     - {
         platform: lubimyczytac,
         user_url: "https://lubimyczytac.pl/profil/2536181/xiegozbior",

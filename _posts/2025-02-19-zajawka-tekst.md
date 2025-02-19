@@ -5,8 +5,8 @@ category: zajawki
 date: 2025-02-19
 author: Kacper Borucki
 excerpt_separator: <!--more-->
-start: 2024-03-21
-end: 2024-03-18
+start: 2024-03-18
+end: 2024-03-21
 isbn: 978-83-66575-91-2
 tags: ["Dmitry Glukhovsky"]
 ocena: 6

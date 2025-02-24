@@ -10,6 +10,7 @@ end: 2024-12-01
 isbn: 978-83-8318-583-5
 tags: ["Jakub Szamałek"]
 ocena: 8
+image: /assets/xiazki/jakub_szamalek_stacja.jpg
 ---
 
 **Po przeczytaniu całej serii "*Ukryta Sieć*" Jakuba Szamałka, naturalnym krokiem było dla mnie sięgnięcie po jego inne książki. Padło na "*Stację*", bo właśnie ten tytuł pożyczyła mi ze swojej biblioteczki znajoma, która wciągnęła mnie w twórczość tego autora.**
@@ -23,8 +24,6 @@ Tuż po wymianie załogi następuje silny rozbłysk słoneczny. Na stacji wdraż
 Na tym poprzestanę, jeżeli chodzi o opis fabuły. Drugim dużym atutem "*Stacji*" - oprócz intrygującej historii - jest pokazanie również codziennego życia na stacji. Harmonogramy zajęć, jedzenie i mycie się w warunkach mikrograwitacji, przymusowe treningi dla podtrzymania masy mięśniowej, sposoby na rozładowywanie napięć emocjonalnych. Oprócz porywającej opowieści można się tu też przekonać, że istnieją jeszcze bardziej niekomfortowe warunki pracy, niż w magazynie Amazona.
 
 Podsumuję krótko. Gdyby odnieść się do kinematografii, "*Stacja*" to bardziej "*Grawitacja*" niż "*Star Wars*". Szamałek "bawi i uczy" - i ma do tego talent. Gdyby sam opis życia na ISS był osobną książką, mógłby okazać się nudny. Na szczęście tu mamy wciągającą intrygę. Połączenie trudnych warunków na stacji i napięć w załodze to genialny pomysł na powieść psychologiczną. Bez wahania polecam!
-
-![Okładka książki "*Stacja*"](/assets/xiazki/jakub_szamalek_stacja.jpg)
 
 ## Warto przeczytać również
 

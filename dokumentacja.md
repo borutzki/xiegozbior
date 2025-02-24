@@ -27,6 +27,11 @@ bundle exec jekyll serve
 - kolory czarno-białe: `ffffff` oraz `000000`
 - przy rozmiarze obrazka `2500px x 2500px`, grubość obramki w logo: `100px`
 
+## Obrazki
+
+- zdjęcia w formacie 4:5
+- znak wodny: `assets/logotypy/xiegozbior_watermark.png`
+
 ## Czcionka
 
 Testowo ustawiłem `Palatino`, ale być może się to zmieni.
@@ -109,6 +114,7 @@ Oryginalny wpis:
 - [ ] Pierwszy akapit zajawki
 - [ ] Oryginalny wpis: Link do wpisu
 - [ ] Dodaj hashtagi
+- [ ] Publikuj
 
 ```txt
 Autor - Tytuł 

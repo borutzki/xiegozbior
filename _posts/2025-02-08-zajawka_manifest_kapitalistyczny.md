@@ -10,6 +10,8 @@ end: 2025-01-22
 isbn: 978-83-8360-055-0
 tags: ["Johan Norberg"]
 ocena: 4
+image: /assets/xiazki/johan_norberg_manifest_kapitalistyczny.jpg
+
 ---
 
 **Gdy na półce w Empiku zobaczyłem "*Manifest Kapitalistyczny. Jak wolny rynek uratuje świat*" Johana Norberga na wyprzedaży, zaintrygował mnie tytuł. Sprawdziłem blurb z tyłu. Wynikało z niego coś, z czym kompletnie się nie zgadzam. Cóż, nie mogłem się oprzeć - kupiłem.**
@@ -25,8 +27,6 @@ Autor niestety nie potrafi sensownie przedstawić zagrożeń płynących z gospo
 Druga wada "*Manifestu*" to opieranie większości stwierdzeń na statystykach i własnych wnioskach autora (co samo w sobie złe nie jest), przy czym Norberg luźno interpretuje dane, na przykład porównując średnie z percentylami czy myląc korelację z przyczynowością.
 
 Podsumowując, "*Manifest Kapitalistyczny*" dobrze przedstawia perspektywę wolnorynkowców, ale nie jest rzetelnym źródłem w kwestii zagrożeń związanych z tym ustrojem.
-
-![Okładka książki "*Manifest Kapitalistyczny*"](/assets/xiazki/johan_norberg_manifest_kapitalistyczny.jpg)
 
 ## Warto przeczytać również
 

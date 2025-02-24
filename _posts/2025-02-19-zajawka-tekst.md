@@ -10,6 +10,7 @@ end: 2024-03-21
 isbn: 978-83-66575-91-2
 tags: ["Dmitry Glukhovsky"]
 ocena: 6
+image: /assets/xiazki/dmitry_glukhovsky_tekst.jpg
 ---
 
 **Dmitry Glukhovsky kojarzy się głównie z post-apokaliptyczną serią "*Metro*" czy dystopijnym "*FUTU.RE*". Dlatego powieść "*Tekst*", osadzona w bardziej współczesnych realiach i bez pompatycznej wizji przyszłości, od dłuższego czasu była na mojej liście rzeczy do przeczytania.**
@@ -25,8 +26,6 @@ Niestety, osobowość głównego bohatera trochę psuje mi tę powieść. Podo
 Tak czy inaczej "*Tekst*" ma zaskakującą głębię. Widzimy tu życie szarego obywatela w Rosji w starciu z opartym na układach systemem państwowym. Przy tym mamy tu ciekawe studium przypadku przejęcia cyfrowej tożsamości. Smartfony są częścią naszego życia czy tego chcemy, czy nie, a Glukhovsky bez wahania pokazuje, że ma to swoje mroczne strony.
 
 Może i nie jest to książka o cyberbezpieczeństwie, ale jako powieść bardzo przystępnie przedstawia implikacje płynące z przejęcia cyfrowej części naszego życia. I właśnie dlatego uważam, że warto po tę powieść sięgnąć.
-
-![Okładka książki "*Tekst*"](/assets/xiazki/dmitry_glukhovsky_tekst.jpg)
 
 ## Warto przeczytać również
 

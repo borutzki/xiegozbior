@@ -10,6 +10,7 @@ end: 2025-01-17
 isbn: 978-83-65308-05-4
 tags: ["Michał Szafrański"]
 ocena: 6
+image: /assets/xiazki/michal_szafranski_finansowy_ninja.jpg
 ---
 
 **Z zakupem "*Finansowego Ninja*" Michała Szafrańskiego zbierałem się od dłuższego czasu, aż w końcu dostałem ten tytuł pod choinkę. Oczekiwania: rzetelna książka o oszczędzaniu, zarabianiu i być może inwestowaniu pieniędzy. W polskich realiach. Może brakować aktualnych informacji, bo wydanie pochodzi z 2019 roku. A jak rzeczywistość?**
@@ -23,8 +24,6 @@ Jeżeli chodzi o wady, to nie ma ich wiele, dlatego opiszę największą: tematy
 Niezależnie od tego, co bym powiedział, "*Finansowy Ninja*" to bardzo dobry tytuł dla osób, które wchodzą w dorosłe życie, chcą poprawić nawyki finansowe, zapanować nad domowym budżetem, albo - w skrajnej formie - ledwo wiążą koniec z końcem i toną w kredytach. Przeczytanie tego to świetny punkt startowy, żeby zacząć dbać o sytuację finansową. Natomiast czytelnicy już ogarnięci finansowo, z doświadczeniem w inwestowaniu - raczej nie wyciągną stąd zbyt wiele.
 
 Dlatego podsumuję krótko: szkoda, że nie przeczytałem tej książki co najmniej 5 lat temu. Wtedy miałoby to dużo więcej sensu.
-
-![Okładka książki "*Finansowy Ninja*"](/assets/xiazki/michal_szafranski_finansowy_ninja.jpg)
 
 ## Warto przeczytać również
 

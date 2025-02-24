@@ -10,6 +10,7 @@ end: 2025-01-03
 isbn: 978-1-9994490-4-9
 tags: ["Shane Parrish", "Farnam Street"]
 ocena: 6
+image: /assets/xiazki/shane_parrish_great_mental_models_volume_2.jpg
 ---
 
 **Na pierwszy ogień idzie pierwsza książka, którą skończyłem czytać w tym roku. Shane Parrish w "*The Great Mental Models Volume 2: Physics, Chemistry and Biology*" prezentuje różne podstawowe koncepcje z dziedzin fizyki, chemii i biologii i pokazuje, że analogiczne do nich zjawiska można zaobserwować również w życiu codziennym.**
@@ -23,8 +24,6 @@ Temat inercji to jeden z wielu rozdziałów i przytaczam go, żeby przedstawić 
 Jednak nie jest to książka bez wad. W niektórych rozdziałach około-biologicznych, przykłady "życiowych" sytuacji niemal całkowicie wypierają opis samych zjawisk, których mają być analogiami. Oprócz tego, zebranych informacji jest sporo, więc nie obeszło się bez skrótów myślowych czy wręcz pojedynczych nieprawdziwych stwierdzeń, na co zwrócili uwagę niektórzy recenzenci z Goodreads. Do tego, największym minusem dla niektórych może być brak wydania w języku polskim.
 
 Koniec końców, jestem skłonny polecić "*The Great Mental Models Volume 2*" jako źródło nowych perspektyw na pewne tematy. A jeżeli komuś ta książka przypadnie do gustu, to sugeruję zainteresować się też innymi wydaniami autora z tej serii. "*Volume 1*" jest równie intrygujący, choć omawia bardziej ogólne schematy myślowe (np. *brzytwę Hanlona*). Trzeciego tomu natomiast (jeszcze?) nie czytałem.
-
-![Okładka książki zgodnie z tym, jak pokazał ją Kindle](/assets/xiazki/shane_parrish_great_mental_models_volume_2.jpg)
 
 ## Dodatkowe linki
 

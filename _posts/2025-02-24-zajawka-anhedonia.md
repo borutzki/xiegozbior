@@ -10,6 +10,8 @@ end: 2024-12-14
 isbn: 978-83-972548-4-8
 tags: ["Arnold Cytrowski"]
 ocena: 8
+image: /assets/xiazki/arnold_cytrowski_anhedonia.jpg
+
 ---
 
 **"*Anhedonię*" Arnolda Cytrowskiego kupiłem spontanicznie, bo zawsze ciekawi mnie twórczość ludzi z mojego otoczenia. Jednak aż do rozpoczęcia lektury nie wiedziałem, czego się spodziewać. Czy warto było kupić ją w ciemno?**
@@ -23,8 +25,6 @@ Czy Artur to "Obrazoburca"? W co się wikła, wchodząc w świat gangsterskiej p
 Dobrym punktem odniesienia dla stylu "*Anhedonii*" jest porównanie do filmów Tarantino. Brak zachowanej chronologii i różne perspektywy przypominają filmowe techniki narracyjne. Niektóre postacie giną nagle i bez zapowiedzi (przykład: spadający fortepian). Pewne zdarzenia mają miejsce bez zbędnego wyjaśniania - czytelnik sam może je zinterpretować. Narracja nie zna też żadnego tabu ani świętości - szczególnie w ostatnich rozdziałach.
 
 Opisany sposób prowadzenia narracji jednych wciągnie, dla innych będzie trudny do przebrnięcia. Oprócz tego, przestawny szyk zdań może z początku utrudniać czytanie. Jednak nie traktuję tego jako wad – to właśnie te cechy wyróżniają "*Anhedonię*" na tle innych książek. I właśnie jako taką unikatową pozycję, bez zawahania ją polecam.
-
-![Okładka książki "*Anhedonia*"](/assets/xiazki/arnold_cytrowski_anhedonia.jpg)
 
 ## Warto przeczytać również
 

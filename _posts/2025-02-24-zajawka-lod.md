@@ -7,7 +7,7 @@ author: Kacper Borucki
 excerpt_separator: <!--more-->
 start: 2025-01-01
 end: 2025-02-16
-isbn: 978-83-972548-4-8
+isbn: 978-83-08-08306-2
 tags: ["Jacek Dukaj"]
 ocena: 9
 image: /assets/xiazki/jacek_dukaj_lod.jpg
@@ -30,13 +30,12 @@ Ale nawet mimo tego, warto było przebrnąć przez te 1000 stron. "*Lód*" podwa
 
 ## Warto przeczytać również
 
-1. **Łukasz Orbitowski - *Kult***: wątek nadprzyrodzonych zdolności w "*Anhedonii*" budzi u mnie jednoznaczne skojarzenia z "*Kultem*", który również jest zapadającą w pamięć lekturą.
-2. **Łukasz Orbitowski - "*Inna Dusza*"**: co ciekawe, nostalgia za latami 90. oraz potencjalne zaburzenia osobowości u jednego z bohaterów również przywodzą mi na myśl pewną książkę Łukasza Orbitowskiego.
-3. **Piotr Adamczyk - *Dom Tęsknot***: z książek osadzonych we Wrocławiu, to własnie "*Dom Tęsknot*" przyszedł mi do głowy jako coś wartego polecenia, choć niekoniecznie w klimacie "*Anhedonii*".
-4. **Olga Tokarczuk - "*Prowadź swój pług przez kości umarłych*"**: jak ktoś lubi serie dziwacznych morderstw, to "pług" Tokarczuk zdecydowanie pasuje tu jako rekomendacja.
+1. **Nassim Nicholas Taleb - "*Czarny Łabędź*"**: tak jak "*Lód*" podważa naszą wiedzę o przeszłości, tak "*Czarny Łabędź*" (choć nie jest to książka fabularna) podważa nasze przewidywania na temat przyszłości. Daje to bardzo zgrabny duet do podważenia wszystkiego poza teraźniejszością.
+2. **Shunryu Suzuku - "*Umysł zen, umysł początkującego*"**: a skoro już mowa o skupieniu się teraźniejszości, to czemu by nie pójść od razu o krok dalej i nie zagłębić się w filozofię buddyjską? Tu w wersji dla laików (podobno).
+3. **Robert Pirsig - "*Zen i sztuka obsługi motocykla*"**: fabularyzowane rozprawy filozoficzne to gatunek, w którym Pirsig ma swój niezły udział. Jeżeli ktoś lubi ten typ książek, to "*Zen i sztuka obsługi motocykla*" jest warta uwagi. Tak, wiem, znowu to *zen*...
+4. **Książki Andrzeja Pilipiuka z serii "*Światy*"**: jeżeli ktoś lubi alternatywną historię, okres carskiej Rosji czy dwudziestolecia międzywojennego, a przy tym nie chce wchodzić w dywagacje filozoficzne, to zbiory opowiadań Pilipiuka są na miejscu. Niestety, nie jestem w stanie wskazać, które dokładnie tytuły zawierają te wątki, bo jest tego po prostu za dużo, żeby spamiętać które opowiadanie było w której książce.
 
 ## Dodatkowe linki
 
-- [Oficjalna strona książki na stronie wydawnictwa](https://linguamortis.pl/2024/10/31/anhedonia/)
+- [Strona książki na Goodreads](https://lubimyczytac.pl/ksiazka/4807881/tekst)
 - [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5166190/anhedonia)
-- [Playlista autora z utworami które pojawiają się w "*Anhedonii*" lub stanowiły inspirację](https://open.spotify.com/playlist/0wFATDbMN75PBmMdFOF0GK?si=4e7cbbf51137405d)

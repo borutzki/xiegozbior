@@ -37,5 +37,5 @@ Ale nawet mimo tego, warto było przebrnąć przez te 1000 stron. "*Lód*" podwa
 
 ## Dodatkowe linki
 
-- [Strona książki na Goodreads](https://lubimyczytac.pl/ksiazka/4807881/tekst)
-- [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5166190/anhedonia)
+- [Strona książki na Goodreads](https://www.goodreads.com/book/show/198377301-l-d)
+- [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5083892/lod)

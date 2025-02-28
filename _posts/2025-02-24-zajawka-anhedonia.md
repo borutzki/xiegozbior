@@ -28,9 +28,9 @@ Opisany sposób prowadzenia narracji jednych wciągnie, dla innych będzie trudn
 
 ## Warto przeczytać również
 
-1. **Łukasz Orbitowski - *Kult***: wątek nadprzyrodzonych zdolności w "*Anhedonii*" budzi u mnie jednoznaczne skojarzenia z "*Kultem*", który również jest zapadającą w pamięć lekturą.
+1. **Łukasz Orbitowski - "*Kult*"**: wątek nadprzyrodzonych zdolności w "*Anhedonii*" budzi u mnie jednoznaczne skojarzenia z "*Kultem*", który również jest zapadającą w pamięć lekturą.
 2. **Łukasz Orbitowski - "*Inna Dusza*"**: co ciekawe, nostalgia za latami 90. oraz potencjalne zaburzenia osobowości u jednego z bohaterów również przywodzą mi na myśl pewną książkę Łukasza Orbitowskiego.
-3. **Piotr Adamczyk - *Dom Tęsknot***: z książek osadzonych we Wrocławiu, to własnie "*Dom Tęsknot*" przyszedł mi do głowy jako coś wartego polecenia, choć niekoniecznie w klimacie "*Anhedonii*".
+3. **Piotr Adamczyk - "*Dom Tęsknot*"**: z książek osadzonych we Wrocławiu, to własnie "*Dom Tęsknot*" przyszedł mi do głowy jako coś wartego polecenia, choć niekoniecznie w klimacie "*Anhedonii*".
 4. **Olga Tokarczuk - "*Prowadź swój pług przez kości umarłych*"**: jak ktoś lubi serie dziwacznych morderstw, to "pług" Tokarczuk zdecydowanie pasuje tu jako rekomendacja.
 
 ## Dodatkowe linki

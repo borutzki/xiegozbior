@@ -29,13 +29,13 @@ Może i nie jest to książka o cyberbezpieczeństwie, ale jako powieść bardz
 
 ## Warto przeczytać również
 
-1. **Kevin Mitnick - *Sztuka Podstępu***: techniki podszywania się, przejmowania cyfrowej tożsamości i inne ataki socjotechniczne, opisane w formie reportażu przez jednego z najbardziej znanych hakerów.
+1. **Kevin Mitnick - "*Sztuka Podstępu*"**: techniki podszywania się, przejmowania cyfrowej tożsamości i inne ataki socjotechniczne, opisane w formie reportażu przez jednego z najbardziej znanych hakerów.
 2. **Jakub Szamałek - "*Cokolwiek wybierzesz*"**: seria "*Ukryta Sieć*" Jakuba Szamałka przedstawia podobne zagadnienia co "*Tekst*", choć z zupełnie innej perspektywy.
 3. **Łukasz Orbitowski - *Inna Dusza***: osadzona w latach 90. powieść, w której mamy do czynienia z podobną atmosferą beznadziejności, a jeden z bohaterów przez swoje motywacje nieco kojarzy mi się z Ilją z "*Tekstu*".
-4. **Dmitry Glukhovsky - *FUTU.RE***: dystopijna powieść, która do "*Tekstu*" nawiązuje przede wszystkim stylem literackim i "denerwującym" głównym bohaterem. Niemniej, koncepcja przyszłości bardzo ciekawa i jeżeli komuś spodobał się "Tekst", to warto rzucić okiem na tę książkę tego samego autora.
+4. **Dmitry Glukhovsky - "*FUTU.RE*"**: dystopijna powieść, która do "*Tekstu*" nawiązuje przede wszystkim stylem literackim i "denerwującym" głównym bohaterem. Niemniej, koncepcja przyszłości bardzo ciekawa i jeżeli komuś spodobał się "Tekst", to warto rzucić okiem na tę książkę tego samego autora.
 
 ## Dodatkowe linki
 
-- [Strona książki na Goodreads](https://lubimyczytac.pl/ksiazka/4807881/tekst)
+- [Strona książki na Goodreads](https://www.goodreads.com/book/show/57504588-tekst)
 - [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5065729/stacja)
 - [Strona ekranizacji "*Tekstu*" na Filmwebie](https://www.filmweb.pl/film/Tekst-2019-842361)

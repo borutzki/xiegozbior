@@ -31,7 +31,7 @@ Ale nawet mimo tego, warto było przebrnąć przez te 1000 stron. "*Lód*" podwa
 ## Warto przeczytać również
 
 1. **Nassim Nicholas Taleb - "*Czarny Łabędź*"**: tak jak "*Lód*" podważa naszą wiedzę o przeszłości, tak "*Czarny Łabędź*" (choć nie jest to książka fabularna) podważa nasze przewidywania na temat przyszłości. Daje to bardzo zgrabny duet do podważenia wszystkiego poza teraźniejszością.
-2. **Shunryu Suzuku - "*Umysł zen, umysł początkującego*"**: a skoro już mowa o skupieniu się teraźniejszości, to czemu by nie pójść od razu o krok dalej i nie zagłębić się w filozofię buddyjską? Tu w wersji dla laików (podobno).
+2. **Shunryu Suzuki - "*Umysł zen, umysł początkującego*"**: a skoro już mowa o skupieniu się teraźniejszości, to czemu by nie pójść od razu o krok dalej i nie zagłębić się w filozofię buddyjską? Tu w wersji dla laików (podobno).
 3. **Robert Pirsig - "*Zen i sztuka obsługi motocykla*"**: fabularyzowane rozprawy filozoficzne to gatunek, w którym Pirsig ma swój niezły udział. Jeżeli ktoś lubi ten typ książek, to "*Zen i sztuka obsługi motocykla*" jest warta uwagi. Tak, wiem, znowu to *zen*...
 4. **Książki Andrzeja Pilipiuka z serii "*Światy*"**: jeżeli ktoś lubi alternatywną historię, okres carskiej Rosji czy dwudziestolecia międzywojennego, a przy tym nie chce wchodzić w dywagacje filozoficzne, to zbiory opowiadań Pilipiuka są na miejscu. Niestety, nie jestem w stanie wskazać, które dokładnie tytuły zawierają te wątki, bo jest tego po prostu za dużo, żeby spamiętać które opowiadanie było w której książce.
 

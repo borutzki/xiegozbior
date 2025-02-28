@@ -1,4 +1,6 @@
-# Xięgozbiór - dokumentacja rzeczy różnych
+# Xięgozbiór
+
+Poniżej zbiór kwestii technicznych i dokumentacji, jak powstaje cały ten blog.
 
 ## Jak przygotować sobie środowisko?
 

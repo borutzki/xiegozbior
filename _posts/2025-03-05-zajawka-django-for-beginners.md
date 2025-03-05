@@ -37,4 +37,4 @@ Podsumowując, "*Django for Beginners*" zdaje się być pozycją dla osób któ
 - [Blog Willa Vincenta](https://wsvincent.com/)
 - [Strona główna Django](https://www.djangoproject.com/)
 - [Strona książki na Goodreads](https://www.goodreads.com/book/show/216357914-django-for-beginners-5th-edition)
-- [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/4935378/django-for-beginners-build-websites-with-python-and-django)
+- [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5182382/django-for-beginners-5th-edition-build-modern-web-applications-with-python)

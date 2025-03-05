@@ -30,6 +30,11 @@ layout: base
         → <time datetime="{{ page.end }}">{{ page.end }}</time>
       </span>
       {%- endif -%}
+      {%- if page.ocena -%}
+      <span>
+        • Ocena: {{ page.ocena }}/10
+      </span>
+      {%- endif -%}
     </p>
   </header>
 

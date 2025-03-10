@@ -24,7 +24,7 @@ Sam przegląd jest jednak intrygujący. Bo wyobraźmy sobie to: tuż po zrzuceni
 
 Pewną wadą książki jest skupienie się na USA, ale trzeba autorowi oddać, że nie zignorował reszty świata. Obok znanych doniesień jak Roswell, mamy tu poruszony temat incydentu w Teheranie czy domniemanych przelotów UFO nad Belgią. Zasadniczym problemem może być tu raczej przesyt doniesień, miejsc, nazwisk i zdarzeń. W pewnym momencie, jako czytelnik, pogubiłem się po prostu w tym, co kiedy miało miejsce - i przestałem się tym szczególnie przejmować.
 
-"*UFO*" polecam przede wszystkim osobom, które są zainteresowane historią zimnej wojny czy astronomią. Natomiast przypadkowy czytelnik może wynieść z tej książki perspektywę, że analiza doniesień o niezidentyfikowanych obiektach latających to bardzo zagadnienie, w którym trudno o jednoznaczne konkluzje. Bo jako ludzkość być może nie znamy jeszcze wszystkich zjawisk fizycznych, a nasza aparatura pomiarowa też miewa błędy...
+"*UFO*" polecam przede wszystkim osobom, które są zainteresowane historią zimnej wojny czy astronomią. Natomiast przypadkowy czytelnik może wynieść z tej książki perspektywę, że analiza doniesień o niezidentyfikowanych obiektach latających to bardzo złożone zagadnienie, w którym trudno o jednoznaczne konkluzje. Bo jako ludzkość być może nie znamy jeszcze wszystkich zjawisk fizycznych, a nasza aparatura pomiarowa też miewa błędy...
 
 ## Warto przeczytać również
 

@@ -31,3 +31,20 @@ Wybierając książki do przeczytania kieruję się impulsem, swoimi aktualnymi 
 ## O subiektywności opinii
 
 *Xięgozbiór* to blog personalny, dlatego wszelkie zarzuty o monotematyczność czy stronniczość opinii są jak najbardziej na miejscu. Niemniej, nie zamierzam polecać książek na których ponowne przeczytanie szkoda by mi było czasu, tak samo jak nie zamierzam krytykować książek tylko dlatego, że nie zgadzają się z moim światopoglądem.
+
+## Rozwój bloga
+
+Na *Xięgozbiorze* można spodziewać się dodania następujących nowości:
+
+- [ ] system archiwum i przeszukiwania wpisów po tagach / kategoriach
+- [ ] wyświetlanie kategorii i tagów przy wpisach
+- [ ] system komentarzy
+- [ ] możliwość manualnej zmiany motywu strony
+- [ ] ograniczenie rozmiaru obrazków (szybsze wczytywanie)
+- [ ] poprawa wyglądu strony głównej (więcej obrazków i informacji o wpisach)
+
+Natomiast już zaimplementowane funkcje to m.in.:
+
+- [x] automatyczny tryb ciemny
+- [x] wyświetlanie ocen które wystawiłem opisywanym książkom
+- [x] wyświetlanie dat rozpoczęcia i zakończenia czytania przeze mnie danej książki

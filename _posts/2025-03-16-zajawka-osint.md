@@ -14,7 +14,7 @@ image: /assets/xiazki/krzysztof_wosinski_osint.jpg
 
 ---
 
-**Tematem *OSINT* interesuję się dość pobieżnie już od jakiegoś czasu. Gdy dowiedziałem się, że można zamówić książkę "*OSINT: Nowy wymiar poszukiwań w sieci*" redakcji Sekuraka w ramach dodruku, uznałem to za dobry punkt zaczepienia do zgłębienia tematu.**
+**Tematem *OSINT* interesuję się dość pobieżnie już od jakiegoś czasu. Gdy dowiedziałem się, że można zamówić książkę "*OSINT: Nowy wymiar poszukiwań w sieci*" Krzysztofa Wosińskiego w ramach dodruku, uznałem to za dobry punkt zaczepienia do zgłębienia tematu.**
 
 <!--more-->
 

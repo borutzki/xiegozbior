@@ -49,6 +49,7 @@ Tu poradnik z którego korzystam do dodawania nowych ikonek w stopce:
 2. Facebook
 3. Goodreads
 4. Lubimyczytac
+5. Mastodon
 
 ### Instagram
 

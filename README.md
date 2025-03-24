@@ -129,4 +129,8 @@ Oryginalny wpis:
 
 #hashtagi
 @ksiazki
+
+Pełny wpis w wątku poniżej! ⬇️
 ```
+
+Poniżej: cały wątek.

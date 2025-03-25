@@ -29,7 +29,7 @@ Dlatego podsumuję krótko: szkoda, że nie przeczytałem tej książki co najmn
 
 1. **Marcin Iwuć - "*Finansowa Forteca*"**: przystępne i jednocześnie szczegółowe omówienie różnych rodzajów aktywów i innych narzędzi finansowych.
 2. **Mateusz Samołyk - "*Inwestowanie Dla Każdego*"**: pragmatyczne wprowadzenie do inwestowania pasywnego, z naciskiem na budowę portfela.
-3. **Blog ["*Jak Oszczędzać Pieniądze*" Michała Szafrańskiego](https://jakoszczedzacpieniadze.pl/)**: choć od pewnego czasu nieaktywny, to nadal stanowi niezłe źródło wiedzy, rozszerzające książkę "*Finansowy Ninja*".
+3. **[Blog "*Jak Oszczędzać Pieniądze*" Michała Szafrańskiego](https://jakoszczedzacpieniadze.pl/)**: choć od pewnego czasu nieaktywny, to nadal stanowi niezłe źródło wiedzy, rozszerzające książkę "*Finansowy Ninja*".
 
 ## Dodatkowe linki
 

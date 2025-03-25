@@ -132,5 +132,3 @@ Oryginalny wpis:
 
 Pełny wpis w wątku poniżej! ⬇️
 ```
-
-Poniżej: cały wątek.

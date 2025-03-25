@@ -28,9 +28,9 @@ Oczywiście w związku z tym że ten poradnik omawia wąsko skrojone zagadnienia
 
 ## Warto przeczytać również
 
-1. **Serwis *Sekurak***: jeżeli szukacie więcej bieżących informacji na tematy związane z cyberbezpieczeństwem, prywatnością w sieci itd., to ten serwis jest zdecydowanie warty uwagi.
-2. **Serwis *Niebezpiecznik***: kolejny serwis zajmujący się tą tematyką, często przybliżający różne aktualne cyberataki i pojawiające się oszustwa.
-3. **Blog *Ciemna strona***: autor tego bloga od czasu do czasu wrzuca wpisy, które pokazują siłę OSINT-u w kwestii prześwietlania działań korporacji. Zdecydowanie warto tam zaglądać po mrożące krew w żyłach doniesienia i praktyczne omówienia złożonych tematów.
+1. [***Sekurak.pl***](https://sekurak.pl/): jeżeli szukacie więcej bieżących informacji na tematy związane z cyberbezpieczeństwem, prywatnością w sieci itd., to ten serwis jest zdecydowanie warty uwagi.
+2. [***Niebezpiecznik.pl***](https://niebezpiecznik.pl/): kolejny serwis zajmujący się tą tematyką, często przybliżający różne aktualne cyberataki i pojawiające się oszustwa.
+3. [**Blog *Ciemna Strona***](https://www.ciemnastrona.com.pl/): autor tego bloga od czasu do czasu wrzuca wpisy, które pokazują siłę OSINT-u w kwestii prześwietlania działań korporacji. Zdecydowanie warto tam zaglądać po mrożące krew w żyłach doniesienia i praktyczne omówienia złożonych tematów.
 4. **Kevin Mitnick - "*Sztuka Podstępu*"**: Mitnick w swojej książce omawia co prawda ataki socjotechniczne, ale korzysta w nich właśnie z informacji albo łatwo dostępnych, albo łatwo skądś pozyskanych. To nieźle uzmysławia, dlaczego czasem nie warto wystawiać informacji na swój temat...
 5. **Kevin Mitnick - "*Niewidzialny w sieci*"**: a jeżeli ktoś po przeczytaniu "*OSINT...*" zaczął martwić się o swoją prywatność, to również Mitnick spisał w formie książki różne porady co do tego, jak zadbać o prywatność w sieci na dość, powiedzmy, paranoicznym poziomie.
 6. **Christopher Wylie - "*Mindfuck*"**: gdyby kogoś nurtowało pytanie "no i co z tego?", to Christopher Wylie całkiem przystępnie opisał, w jaki sposób dostęp do dużej ilości informacji o wyborcach może pozwalać na wpływanie na ich wynik (tak, to już miało miejsce).
@@ -38,6 +38,5 @@ Oczywiście w związku z tym że ten poradnik omawia wąsko skrojone zagadnienia
 
 ## Dodatkowe linki
 
-- [Sekurak.pl](https://sekurak.pl/)
 - [Strona książki na stronie wydawnictwa Securitum](https://wydawnictwo.securitum.pl/osint-nowy-wymiar-poszukiwan-w-sieci)
 - [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5169167/osint-nowy-wymiar-poszukiwan-w-sieci)

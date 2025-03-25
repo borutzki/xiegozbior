@@ -29,7 +29,7 @@ Summa summarum, "*Classic Skills and Manners...*" to książka z której można�
 
 1. **Wayne Levine - "*Hold On To Your N.U.T.s*"**: jeżeli już pozostajemy przy poradnikach dla facetów, to ta książka jest bardziej przystępna - choć ma dużo bardziej coachingowy ton.
 2. **Benjamin Franklin - "*Żywot Własny*"**: zamiast czyichś interpretacji zasad którymi kierował się Benjamin Franklin, warto spróbować zapoznać się z przemyśleniami samego Benjamina Franklina.
-3. **Blog [Art of Manliness](<https://www.artofmanliness.com/>)**: oryginalny blog autorów opisanej książki.
+3. **[Blog *Art of Manliness*](<https://www.artofmanliness.com/>)**: oryginalny blog autorów opisanej książki.
 
 ## Dodatkowe linki
 

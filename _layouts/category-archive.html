@@ -1,0 +1,12 @@
+---
+layout: base
+---
+<h1>Archiwum wpisów z kategorią '{{ page.title }}'</h1>
+<ul class="posts">
+    {% for post in page.posts %}
+    <li>
+        <a  href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="post-date">(<i>{{ post.date | date: "%b %-d, %Y" }}</i>)</span>
+    </li>
+    {% endfor %}
+</ul>

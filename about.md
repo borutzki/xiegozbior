@@ -36,15 +36,17 @@ Wybierając książki do przeczytania kieruję się impulsem, swoimi aktualnymi 
 
 Na *Xięgozbiorze* można spodziewać się dodania następujących nowości:
 
-- [ ] system archiwum i przeszukiwania wpisów po tagach / kategoriach
-- [ ] wyświetlanie kategorii i tagów przy wpisach
-- [ ] system komentarzy
+- [ ] wyświetlanie kategorii i tagów przy wpisach z odsyłaczami do nich
+- [ ] wyświetlanie kategorii w belce górnej
+- [ ] poprawa wyglądu strony głównej (więcej obrazków i informacji o wpisach)
+- [ ] polskie daty
 - [ ] możliwość manualnej zmiany motywu strony
 - [ ] ograniczenie rozmiaru obrazków (szybsze wczytywanie)
-- [ ] poprawa wyglądu strony głównej (więcej obrazków i informacji o wpisach)
+- [ ] system komentarzy
 
 Natomiast już zaimplementowane funkcje to m.in.:
 
+- [x] system archiwum i przeszukiwania wpisów po tagach / kategoriach
 - [x] automatyczny tryb ciemny
 - [x] wyświetlanie ocen które wystawiłem opisywanym książkom
 - [x] wyświetlanie dat rozpoczęcia i zakończenia czytania przeze mnie danej książki

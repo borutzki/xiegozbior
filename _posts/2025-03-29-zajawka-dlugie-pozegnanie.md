@@ -14,7 +14,7 @@ image: /assets/xiazki/raymond_chandler_dlugie_pozegnanie.jpg
 
 ---
 
-**"*Długie pożegnanie*"** Raymonda Chandlera to szósta część cyklu o przygodach Philipa Marlowe. Czy tak długie eksploatowanie stylu noir i pojedynczej postaci detektywa ma sens? Sprawdźmy...
+**"*Długie pożegnanie*" Raymonda Chandlera to szósta część cyklu o przygodach Philipa Marlowe. Czy tak długie eksploatowanie stylu noir i pojedynczej postaci detektywa ma sens? Sprawdźmy...**
 
 <!--more-->
 

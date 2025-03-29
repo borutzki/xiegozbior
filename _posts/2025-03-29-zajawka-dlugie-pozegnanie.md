@@ -9,7 +9,7 @@ start: 2025-03-20
 end: 2025-03-24
 isbn: N/A
 tags: ["Raymond Chandler"]
-ocena: 7
+ocena: 6
 image: /assets/xiazki/raymond_chandler_dlugie_pozegnanie.jpg
 
 ---

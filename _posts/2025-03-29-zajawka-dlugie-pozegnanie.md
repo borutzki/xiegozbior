@@ -28,7 +28,7 @@ Główny bohater zaczyna zajmować się nową śmierdzącą sprawą: ma pilnowa�
 
 Co do wad tej powieści - niektóre wątki i wyjaśnienia są przesadnie skomplikowane, ale to częsta cecha powieści detektywistycznych. Pewne zachowania Marlowe'a i innych bohaterów wydają się zbyt patetyczne, ale można to obronić, mając na uwadze poprzedni akapit.
 
-Dlatego "Długie pożegnanie" polecam dwóm grupom czytelników. Pierwsza: miłośnicy kryminałów. Druga: czytelnicy ceniący refleksje na temat zmagań uczciwego człowieka z nieuczciwym światem. "*Długie pożegnanie*" wciąga intrygą, a jednocześnie zapewnia dawkę refleksji na temat stanu świata.
+Dlatego "*Długie pożegnanie*" polecam dwóm grupom czytelników. Pierwsza: miłośnicy kryminałów. Druga: czytelnicy ceniący refleksje na temat zmagań uczciwego człowieka z nieuczciwym światem. Ta powieść wciąga intrygą, a jednocześnie zapewnia dawkę refleksji na temat stanu świata.
 
 ## Warto przeczytać również
 

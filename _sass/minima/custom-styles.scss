@@ -1,2 +1,25 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// list element with post title, excerpt and photo, visible on home page
+.post-container {
+    display: flex;
+    flex-direction: row;
+    gap: 2.5rem;
+}
+
+// photo of book, visible on home page
+.post-photo {
+    max-width: 25%;
+}
+
+@media (max-width: 720px) {
+    .post-container {
+        flex-direction: column;
+    }
+
+    .post-photo {
+        max-width: 100%;
+    }
+
+}

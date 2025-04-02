@@ -24,7 +24,7 @@ layout: base
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in posts -%}
-    <li style="display:flex; flex-direction: row; gap: 2.5rem">
+    <li class="post-container">
       <div>
         <span class="post-meta">
           {{ post.date | date: date_format }}
@@ -41,7 +41,7 @@ layout: base
           Kategoria: {{ post.category }} | Ocena: {{ post.ocena }} / 10
         </span> -->
       </div>
-      <a href="{{ post.url | relative_url }}" style="max-width: 25%;"><img src="{{ post.image }}"></a>
+      <a href="{{ post.url | relative_url }}" class="post-photo" style=><img src="{{ post.image }}"></a>
     </li>
     <hr>
     {%- endfor -%}

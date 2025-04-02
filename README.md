@@ -76,7 +76,7 @@ Autor - Tytuł Książki
 
 <zajawka>
 
-Oryginalny wpis:
+Link do wpisu 🔗
 <link>
 
 #hashtagi
@@ -92,7 +92,7 @@ Oryginalny wpis:
 ```txt
 <zajawka>
 
-Oryginalny wpis:
+Link do wpisu 🔗
 <link>
 ```
 
@@ -106,7 +106,7 @@ Oryginalny wpis:
 ```txt
 <zajawka>
 
-Oryginalny wpis:
+Link do wpisu 🔗
 <link>
 ```
 
@@ -124,7 +124,7 @@ Autor - Tytuł
 
 <akapit zajawki>
 
-Oryginalny wpis:
+Link do wpisu 🔗
 <link>
 
 #hashtagi

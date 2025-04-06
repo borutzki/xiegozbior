@@ -29,6 +29,20 @@ layout: base
         <span class="post-meta">
           {{ post.date | date: date_format }}
         </span>
+        {%- if post.categories -%}
+        <span class="post-meta">
+          {% if post %}
+          {% assign categories = post.categories %}
+          {% else %}
+          {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+          • <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category |
+            capitalize}}</a>
+          <!-- {% unless forloop.last %}&nbsp;{% endunless %} -->
+          {% endfor %}
+        </span>
+        {%- endif -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -37,9 +51,7 @@ layout: base
         {%- if site.show_excerpts -%}
         <div style="text-align: justify; text-justify: inter-word;">{{ post.excerpt }}</div>
         {%- endif -%}
-        <!-- <span class="post-meta">
-          Kategoria: {{ post.category }} | Ocena: {{ post.ocena }} / 10
-        </span> -->
+
       </div>
       {%- if post.image -%}
       <a href="{{ post.url | relative_url }}" class="post-photo" style=><img src="{{ post.image }}"></a>

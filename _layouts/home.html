@@ -41,7 +41,9 @@ layout: base
           Kategoria: {{ post.category }} | Ocena: {{ post.ocena }} / 10
         </span> -->
       </div>
+      {%- if post.image -%}
       <a href="{{ post.url | relative_url }}" class="post-photo" style=><img src="{{ post.image }}"></a>
+      {%- endif -%}
     </li>
     <hr>
     {%- endfor -%}

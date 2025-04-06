@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xiegozbior.pl" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
+  - categories.html
   - about.md
 author:
   name: Kacper Borucki
@@ -53,7 +54,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-archives
 
 theme: minima
 remote_theme: jekyll/minima
@@ -76,17 +76,3 @@ remote_theme: jekyll/minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-jekyll-archives:
-  enabled: 
-    - categories
-    - tags
-  layouts: 
-    category: category-archive
-    tag: tag-archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'

@@ -53,7 +53,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-archives
 
 theme: minima
 remote_theme: jekyll/minima
@@ -76,17 +75,3 @@ remote_theme: jekyll/minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-jekyll-archives:
-  enabled: 
-    - categories
-    - tags
-  layouts: 
-    category: category-archive
-    tag: tag-archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'

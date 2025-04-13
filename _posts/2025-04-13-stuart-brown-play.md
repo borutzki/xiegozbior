@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stuart Brown - Play"
+title: "Stuart M. Brown Jr. - Play"
 category: zajawki
 date: 2025-04-13
 author: Kacper Borucki
@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 start: 2025-04-06
 end: 2025-04-10
 isbn: 978-1-101-01623-7
-tags: ["Stuart Brown"]
+tags: ["Stuart M. Brown Jr.", "Christopher Vaughan"]
 ocena: 3
 image: /assets/xiazki/stuart_brown_play.jpg
 

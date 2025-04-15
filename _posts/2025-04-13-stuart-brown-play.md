@@ -31,7 +31,7 @@ Podsumowując: "*Play*" omawia pewne przesłanki na temat istotności zabawy w �
 ## Warto przeczytać również
 
 1. **Adam Alter - "*Irresistible*"**: tu trochę na temat "mroczniejszych" aspektów zabawy, mianowicie: o uzależnieniach behawioralnych.
-2. **Annie Duke - *Quit***: książka o tym, jak rezygnować z różnych rzeczy. Przydatna, jakby ktoś zainspirował się "*Play*" i postanowił znaleźć więcej czasu na zabawę.
+2. **Annie Duke - "*Quit*"**: książka o tym, jak rezygnować z różnych rzeczy. Przydatna, jakby ktoś zainspirował się "*Play*" i postanowił znaleźć więcej czasu na zabawę.
 3. **Greg McKeown - "*Esencjalista. Mniej, ale lepiej*"**: poradnik o tym, że wymyślanie miliona rzeczy do zrobienia to nie jest najlepszy pomysł.
 
 ## Dodatkowe linki

@@ -40,6 +40,8 @@ Na *Xięgozbiorze* można spodziewać się dodania następujących nowości:
 - [ ] możliwość manualnej zmiany motywu strony
 - [ ] ograniczenie rozmiaru obrazków (szybsze wczytywanie)
 - [ ] system komentarzy
+- [ ] paginacja strony głównej
+- [ ] podstrona z książkami wg. ocen
 
 Natomiast już zaimplementowane funkcje to m.in.:
 

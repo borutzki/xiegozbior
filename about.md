@@ -20,7 +20,7 @@ Na *Xięgozbiorze* czytelnik może spodziewać się trzech poniższych rodzajów
 
 1. **Zajawki.** Wpisy w limicie 2200 znaków, które mają przedstawić wybraną książkę i krótko podsumować jej potencjalną grupę docelową i wartość dla czytelnika.
 2. **Zestawienia.** Wpisy zbiorcze z listą książek, które omawiają wybrane zagadnienie lub obracają się wokół wybranego motywu.
-3. **Recenzje**. Dłuższe wpisy na temat książek, które z jakiegoś powodu sobie na to zasłużyły.
+3. **Recenzje.** Dłuższe wpisy na temat książek, które z jakiegoś powodu sobie na to zasłużyły.
 
 ## O selekcji książek
 
@@ -36,13 +36,12 @@ Wybierając książki do przeczytania kieruję się impulsem, swoimi aktualnymi 
 
 Na *Xięgozbiorze* można spodziewać się dodania następujących nowości:
 
-- [ ] wyświetlanie kategorii i tagów przy wpisach z odsyłaczami do nich
-- [ ] wyświetlanie kategorii w belce górnej
-- [ ] poprawa wyglądu strony głównej (więcej obrazków i informacji o wpisach)
 - [ ] polskie daty
 - [ ] możliwość manualnej zmiany motywu strony
 - [ ] ograniczenie rozmiaru obrazków (szybsze wczytywanie)
 - [ ] system komentarzy
+- [ ] paginacja strony głównej
+- [ ] podstrona z książkami wg. ocen
 
 Natomiast już zaimplementowane funkcje to m.in.:
 
@@ -50,3 +49,6 @@ Natomiast już zaimplementowane funkcje to m.in.:
 - [x] automatyczny tryb ciemny
 - [x] wyświetlanie ocen które wystawiłem opisywanym książkom
 - [x] wyświetlanie dat rozpoczęcia i zakończenia czytania przeze mnie danej książki
+- [x] poprawa wyglądu strony głównej (więcej obrazków i informacji o wpisach)
+- [x] wyświetlanie kategorii i tagów przy wpisach z odsyłaczami do nich
+- [x] wyświetlanie kategorii w belce górnej

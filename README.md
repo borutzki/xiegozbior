@@ -43,6 +43,13 @@ Testowo ustawiłem `Palatino`, ale być może się to zmieni.
 Tu poradnik z którego korzystam do dodawania nowych ikonek w stopce:
 <https://blog.jakelee.co.uk/adding-new-social-media-link-to-minima/>
 
+## Jak włączyłem paginację?
+
+1. Dodaj `jekyll-paginate` do Gemfile: `gem 'jekyll-paginate', '~> 1.1'`
+2. Zmień nazwę pliku `index.md` na `index.html`.
+3. Dodaj do `_config.yml` plugin `jekyll-paginate`.
+4. Dodaj do `_config.yml` zmienną `paginate: 10`.
+
 ## Publikowanie
 
 1. Instagram

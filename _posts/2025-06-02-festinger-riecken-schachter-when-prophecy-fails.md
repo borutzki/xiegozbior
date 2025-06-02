@@ -22,11 +22,11 @@ Lata 50. XX wieku. Psychologowie Leon Festinger, Henry W. Riecken i Stanley Scha
 
 Jednak badacze decydują się na przeprowadzenie eksperymentu, uznając dane historyczne za niewystarczające. Dlatego gdy trafiają na wzmiankę prasową o pani Keech, która wieszczy koniec świata 21 grudnia (Ameryka ma zostać zatopiona, a grupę wybrańców ma uratować przed kataklizmem statek kosmiczny), postanawiają wykorzystać okazję. Dołączają do kultu z grupą wynajętych obserwatorów.
 
-Lwia część książki "*When Prophecy Fails*" to (dość powtarzalne) opisy członków kultu i dynamiki grupy. Punkt kulminacyjny to data zapowiedzianego końca świata, który nie nastąpił. Zgodnie z hipotezą, po kilku dniach oczekiwania w domu pani Keech na statek kosmiczny, grupa przeżywa rozczarowanie, a zachowanie jej członków ulega zmianie. Sekta, która wcześniej działała potajemnie, teraz próbuje przyciągnąć nowych wyznawców i racjonalizować swoje przekonanie na sprzeczne sposoby.
+Lwia część książki "*When Prophecy Fails*" to opisy członków kultu i dynamiki grupy. Punkt kulminacyjny to data zapowiedzianego końca świata, który nie nastąpił. Zgodnie z hipotezą, po kilku dniach oczekiwania w domu pani Keech na statek kosmiczny, grupa przeżywa rozczarowanie, a zachowanie jej członków ulega zmianie. Sekta, która wcześniej działała potajemnie, teraz próbuje przyciągnąć nowych wyznawców i racjonalizować swoje przekonanie na sprzeczne sposoby.
 
 To wartościowa lektura, zwłaszcza że w latach 50. nie istniały internetowe bańki informacyjne. Wnioski z badań autorów implikują, że obalenie czyjegoś poglądu przez fakty wcale nie musi nakłonić tej osoby do zmiany zdania. Jeśli taka osoba ma wsparcie grupy, to może wręcz zacząć jeszcze mocniej obstawać przy swoim.
 
-Można mieć zastrzeżenia dotyczące etyki badania. Do metodologii badacze odnieśli się w książce. Niemniej, ich hipoteza wygląda na prawdziwą. A to sprawia, że ta książka może mówić o współczesnej polityce więcej niż niejedna pozycja z dziedziny politologii...
+Można mieć zastrzeżenia dotyczące etyki badania. Do metodologii badacze odnieśli się w książce. Styl opisu jest raczej nudny. Niemniej, hipoteza wygląda na prawdziwą. A to sprawia, że ta książka może mówić o współczesnej polityce więcej niż niejedna pozycja z dziedziny politologii...
 
 ## Warto przeczytać również
 

@@ -10,7 +10,7 @@ end: 2025-06-01
 isbn: 978-1-905177-19-6
 tags: ["Leon Festinger", "Henry W. Riecken", "Stanley Schachter"]
 ocena: 7
-image: /assets/xiazki/2025-06-02-festinger-riecken-schachter-when-prophecy-fails.jpg
+image: /assets/xiazki/festinger_riecken_schachter_when_prophecy_fails.jpg
 
 ---
 

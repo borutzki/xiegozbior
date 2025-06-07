@@ -2,7 +2,7 @@
 layout: post
 title: "Anna Romaniuk - Orzeszkowo 14. Historie z Podlasia"
 category: zajawki
-date: 2025-06-02
+date: 2025-06-07
 author: Kacper Borucki
 excerpt_separator: <!--more-->
 start: 2025-05-18

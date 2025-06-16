@@ -33,7 +33,7 @@ Podsumowując: Hogan napisał książkę na podstawie badania, którego w niej n
 1. **Joe Dominguez, Vicki Robin - "*Your Money or Your Life*"**: książka również o filozofii oszczędzania (i nie tylko), która jest może i nieco bardziej dogmatyczna, ale też niesie za sobą więcej praktycznych wskazówek. Kto wie, może spora część grupy w badaniu Hogana też to czytała?
 2. **Mateusz Samołyk - "*Inwestowanie dla każdego*"**: bardzo dobry przewodnik po świecie inwestowania, w którym książka "*Everyday Millionaires*" jest osadzona w tle i przez to wybrzmiewa dużo bardziej.
 3. **Marcin Iwuć - "*Finansowa Forteca*"**: podstawowa lektura dla każdego, kto próbuje wejść do świata inwestowania w polskich realiach.
-4. [**Michał Szafrański - "*Finansowy Ninja*"**]({% post_url 2025-02-04-zajawka_finansowy_ninja.md %}): jeżeli jakaś polska książka zawiera w sobie streszczenie "*Everyday Millionaires*", to właśnie ta.
+4. [**Michał Szafrański - "*Finansowy Ninja*"**]({% post_url 2025-02-04-zajawka_finansowy_ninja %}): jeżeli jakaś polska książka zawiera w sobie streszczenie "*Everyday Millionaires*", to właśnie ta.
 5. **Ramit Sethi - "*I will teach you to be rich*"**: pragmatyczny, amerykański poradnik o finansach osobistych.
 
 ## Dodatkowe linki

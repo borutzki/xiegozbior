@@ -36,7 +36,7 @@ Bez wahania polecam tę książkę każdemu. Da się ją przeczytać w jedno 
 2. **Brian Aldis - "*Non Stop*"**: w "*Non Stop*" pojawia się trochę wątków zbieżnych z "*Paradyzją*", a że to też dobra lektura, to polecam jako uzupełnienie.
 3. **Edward Snowden - "*Pamięć nieulotna*"**: jeżeli ktoś *nie wierzy w tą całą masową inwigilację*, to ta książka Snowdena pozwoli mu wyjść spod kamienia.
 4. **Jarosław Królewski, Krzysztof Rybiński - "*Algokracja*"**: to z tej książki dowiedziałem się o wielu zagadnieniach związanych ze sztuczną inteligencją, w tym także o *scoringu* społecznym w Chinach. Książka raczej z tych bezkrytycznie promujących wykorzystanie AI, ale ciekawie było poznać perspektywę entuzjastów tej technologii.
-5. [**Krzysztof Wosiński - "*OSINT: Nowy wymiar poszukiwań w sieci*"**]({{ site.baseurl }}{% link _posts/2025-03-16-zajawka-osint.md %}): to tak, jakby ktoś chciał się przekonać, ile informacji na swój temat jest w stanie znaleźć w sieci.
+5. [**Krzysztof Wosiński - "*OSINT: Nowy wymiar poszukiwań w sieci*"**]({% post_url 2025-03-16-zajawka-osint.md %}): to tak, jakby ktoś chciał się przekonać, ile informacji na swój temat jest w stanie znaleźć w sieci.
 
 ## Dodatkowe linki
 

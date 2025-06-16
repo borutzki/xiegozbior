@@ -34,7 +34,7 @@ Choć miejscami lektura bywała nużąca, uważam, że była warta uwagi. Pokazu
 
 ## Warto przeczytać również
 
-1. [**Anna Romaniuk - "*Orzeszkowo 14. Historie z Podlasia*"**]({{ site.baseurl }}{% link _posts/2025-06-07-zajawka-orzeszkowo-14.md %}): zbiór esejów o okolicach Hajnówki, który dość dobrze wprowadza w kontekst regionu.
+1. [**Anna Romaniuk - "*Orzeszkowo 14. Historie z Podlasia*"**]({% post_url 2025-06-07-zajawka-orzeszkowo-14.md %}): zbiór esejów o okolicach Hajnówki, który dość dobrze wprowadza w kontekst regionu.
 2. **Aneta Prymaka-Oniszk** - "*Kamienie musiały polecieć*": reportaż Wydawnictwa Czarnego na temat Podlasia, który pokazuje burzliwą przeszłość regionu z perspektywy ludności prawosławnej.
 3. **Kamil Janicki - "*Cywilizacja Słowian*"**: szerszy kontekst słowiańskich wierzeń ludowych, odarty z legend i dopisanych współcześnie uzupełnień.
 

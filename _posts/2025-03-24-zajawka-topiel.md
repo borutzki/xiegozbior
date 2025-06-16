@@ -31,7 +31,7 @@ Mając to wszystko na uwadze, "*Topiel*" polecam jako odprężającą lekturę z
 ## Warto przeczytać również
 
 1. **Łukasz Orbitowski - "*Inna Dusza*"**: jeżeli ktoś po przeczytaniu "*Topieli*" poczuje, że chce jeszcze większą dawkę nostalgii lat 90., to "*Inna Dusza*" Orbitowskiego zdecydowanie ją zapewni.
-2. [**Arnold Cytrowski - "*Anhedonia*"**]({{ site.baseurl }}{% link _posts/2025-02-24-zajawka-anhedonia.md %}): znowu lata 90, choć w bardziej surowym klimacie światka gangsterskiego. Tu również pojawia się wątek powodzi tysiąclecia.
+2. [**Arnold Cytrowski - "*Anhedonia*"**]({% post_url 2025-02-24-zajawka-anhedonia.md %}): znowu lata 90, choć w bardziej surowym klimacie światka gangsterskiego. Tu również pojawia się wątek powodzi tysiąclecia.
 3. **Piotr Adamczyk - "*Dom tęsknot*"**: historia nostalgiczna w zupełnie inny sposób, warta uwagi pod kątem portretu psychologicznego głównego bohatera.
 4. **Jerome David Salinger - "*Buszujący w zbożu*"**: nie potrafię wyjaśnić dlaczego, ale odczuwam jakieś subtelne powiązanie "*Topieli*" z "*Buszującym w zbożu*".
 

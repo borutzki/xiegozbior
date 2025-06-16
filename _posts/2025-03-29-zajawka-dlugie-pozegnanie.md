@@ -35,7 +35,7 @@ Dlatego "*Długie pożegnanie*" polecam dwóm grupom czytelników. Pierwsza: mi�
 1. **Raymond Chandler - "*Tajemnica jeziora*"**: prawdopodobnie najbardziej przystępna i wciągająca część z serii o przygodach detektywa Marlowe'a. Intrygi, niewyjaśnione okoliczności i nowobogaccy.
 2. **Raymond Chandler - "*Siostrzyczka*"**: w tej części przygód Marlowe'a język był najbardziej cięty, Marlowe najbardziej arogancki, a fabuła najbardziej pogmatwana. Może dlatego pamiętam ją jako najlepszą z serii?
 3. **Francis Scott Fitzgerald - "*Wielki Gatsby*"**: gdy mówię o "czytelnikach ceniących refleksje na temat zmagań uczciwego człowieka z nieuczciwym światem", mam na myśli tego typu książki.
-4. [**Arnold Cytrowski - "*Anhedonia*"**]({% post_url 2025-02-24-zajawka-anhedonia.md %}): jak skojarzyć "Anhedonię" z książkami Chandlera? Słowo klucz: *noir*. Inne czasy, zupełnie inna historia, a klimat zdaje się podobny.
+4. [**Arnold Cytrowski - "*Anhedonia*"**]({% post_url 2025-02-24-zajawka-anhedonia %}): jak skojarzyć "Anhedonię" z książkami Chandlera? Słowo klucz: *noir*. Inne czasy, zupełnie inna historia, a klimat zdaje się podobny.
 5. **Sławek Gortych - "*Schronisko, które spowijał mrok*"**: może nie noir, ale ta konkretna historia kryminalna ma w sobie coś z klasyków detektywistycznych.
 
 ## Dodatkowe linki

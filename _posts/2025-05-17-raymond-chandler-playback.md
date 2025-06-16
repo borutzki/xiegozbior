@@ -26,7 +26,7 @@ To wszystko z pozoru buduje wciągającą intrygę, jednak "*Playback*" ma kilka
 
 Przede wszystkim, brakuje tu tak ostrego języka jak na przykład w "*Siostrzyczce*". Może to wina tłumaczenia, jednak stylistyka noir i cynizm w dialogach są tu stonowane, więc podczas czytania brakuje spontanicznych parsknięć śmiechem wywołanych trafnymi opisami. Pojawiają się natomiast aż trzy wątki romantyczne, które, moim zdaniem, nic nie wnoszą.
 
-Gdy opisywałem ["*Długie pożegnanie*"]({% post_url 2025-03-29-zajawka-dlugie-pozegnanie.md %}), wspomniałem o patetyczności. W "*Playbacku*" reguły, którymi kieruje się Marlowe, są na pierwszym planie i okazuje się, że wcale nie wypada to najlepiej. Detektyw wmieszany w sprawę z zabójstwem w tle raz przyjmuje, a raz oddaje pieniądze zleceniodawcom - zależnie od tego, czy czuje się z nimi dobrze, czy nie - co wypada dość nierealistycznie.
+Gdy opisywałem ["*Długie pożegnanie*"]({% post_url 2025-03-29-zajawka-dlugie-pozegnanie %}), wspomniałem o patetyczności. W "*Playbacku*" reguły, którymi kieruje się Marlowe, są na pierwszym planie i okazuje się, że wcale nie wypada to najlepiej. Detektyw wmieszany w sprawę z zabójstwem w tle raz przyjmuje, a raz oddaje pieniądze zleceniodawcom - zależnie od tego, czy czuje się z nimi dobrze, czy nie - co wypada dość nierealistycznie.
 
 Mając na uwadze to wszystko, nie mogę jednak powiedzieć, że "*Playback*" to zła książka. Jest po prostu średnia. Nie porwała mnie, choć też nie odpychała. Zakończenie serii w tej książce było dobrym posunięciem i autor zrobił to w sposób jednoznaczny. Niemniej, poczytałbym jeszcze coś o przygodach tego detektywa alkoholika z Los Angeles...
 
@@ -34,7 +34,7 @@ Mając na uwadze to wszystko, nie mogę jednak powiedzieć, że "*Playback*" to 
 
 1. **Raymond Chandler - "*Głęboki sen*"**: pierwsza część przygód Marlowe'a nadała serii pewnego kolorytu, który potem był podtrzymywany w różnym stopniu.
 2. **Raymond Chandler - "*Siostrzyczka*"**: jeżeli gdzieś Chandler wszedł na wyżyny sarkazmu, to właśnie w tej części z serii.
-3. [**Walter Mosley - "*Diabeł w błękitnej sukience*"**]({% post_url 2025-04-24-walter-mosley-diabel-w-blekitnej-sukience.md %}): zupełnie inna książka w nieco innych realiach, bo głównym bohaterem jest czarnoskóry weteran drugiej wojny światowej. Nieco bardziej wciągająca niż "*Playback*" między innymi ze względu na rzut okiem na inne tło historyczne.
+3. [**Walter Mosley - "*Diabeł w błękitnej sukience*"**]({% post_url 2025-04-24-walter-mosley-diabel-w-blekitnej-sukience %}): zupełnie inna książka w nieco innych realiach, bo głównym bohaterem jest czarnoskóry weteran drugiej wojny światowej. Nieco bardziej wciągająca niż "*Playback*" między innymi ze względu na rzut okiem na inne tło historyczne.
 
 ## Dodatkowe linki
 

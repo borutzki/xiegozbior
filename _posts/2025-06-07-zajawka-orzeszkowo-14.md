@@ -5,7 +5,7 @@ category: zajawki
 date: 2025-06-07
 author: Kacper Borucki
 excerpt_separator: <!--more-->
-start: 2025-05-18
+start: 2025-05-27
 end: 2025-06-01
 isbn: 978-83-8191-834-3
 tags: ["Anna Romaniuk", "reportaże", "Wydawnictwo Czarne"]

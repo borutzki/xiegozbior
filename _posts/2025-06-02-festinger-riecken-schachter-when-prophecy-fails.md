@@ -33,7 +33,7 @@ Można mieć zastrzeżenia dotyczące etyki badania. Do metodologii badacze odni
 1. **Daniel Kanheman - "*Pułapki Myślenia*"**: ta bestsellerowa książka omawia temat błędów poznawczych bardzo przekrojowo i moim zdaniem stanowi świetny wstęp do tematyki. W kontekście "*When Prophecy Fails*", warto przeczytać u Kahnemana o tzw. *utopionych kosztach*.
 2. **Adam Grant - "*Leniwy Umysł*"**: Grant w pragmatyczny sposób odniósł się do ciągłej walidacji swoich poglądów i choć uważam, że polski tytuł w ogóle nie oddaje clou tej lektury, to jest ona zdecydowanie warta uwagi.
 3. **Annie Duke - "*Quit*"**: to książka o tym, jak rezygnować z różnych rzeczy. Zwłaszcza z tych, które niosą za sobą przede wszystkim negatywne skutki.
-4. **[Garrett M. Graff - "*UFO*"]({{ site.baseurl }}{% link _posts/2025-03-10-zajawka-ufo.md %})**: z nieco innej beczki, ta książka pokazuje jak w czasach analizowanego kultu wyglądała popularność latających spodków.
+4. **[Garrett M. Graff - "*UFO*"]({% post_url 2025-03-10-zajawka-ufo.md %})**: z nieco innej beczki, ta książka pokazuje jak w czasach analizowanego kultu wyglądała popularność latających spodków.
 5. **Nassim Nicholas Taleb - "*Czarny Łabędź*"**: to książka o tym, dlaczego ogólnie jesteśmy słabi w prognozowanie czegokolwiek.
 
 ## Dodatkowe linki

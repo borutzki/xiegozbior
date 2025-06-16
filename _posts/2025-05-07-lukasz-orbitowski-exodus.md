@@ -33,8 +33,8 @@ Biorąc to wszystko pod uwagę, "*Exodus*" polecam głównie dwóm grupom: fanom
 ## Warto przeczytać również
 
 1. **Łukasz Orbitowski - "*Inna dusza*"**: inna powieść Orbitowskiego z silnym naciskiem na portrety psychologiczne.
-2. [**Arnold Cytrowski - "*Anhedonia*"**]({{ site.baseurl }}{% link _posts/2025-02-24-zajawka-anhedonia.md %}): retrospektywy, portrety psychologiczne, ciąg nieprzewidywalnych wydarzeń - to zbieżności między "*Anhedonią*" i "*Exodusem*".
-3. [**Dmitry Glukhovsky - "*Tekst*"**]({{ site.baseurl }}{% link _posts/2025-02-19-zajawka-tekst.md %}): wątek mierzenia się z przeszłością Głuchowski przedstawia zupełnie inaczej, ale i tak "*Exodus*" budzi we mnie luźne skojarzenie z tą książką.
+2. [**Arnold Cytrowski - "*Anhedonia*"**]({% post_url 2025-02-24-zajawka-anhedonia.md %}): retrospektywy, portrety psychologiczne, ciąg nieprzewidywalnych wydarzeń - to zbieżności między "*Anhedonią*" i "*Exodusem*".
+3. [**Dmitry Glukhovsky - "*Tekst*"**]({% post_url 2025-02-19-zajawka-tekst.md %}): wątek mierzenia się z przeszłością Głuchowski przedstawia zupełnie inaczej, ale i tak "*Exodus*" budzi we mnie luźne skojarzenie z tą książką.
 4. **Piotr Adamczyk - "*Dom tęsknot*"**: kolejne bardzo luźne skojarzenie - tym razem książka skupiona głównie na retrospektywie, która wyjaśnia bieżącą sytuację głównego bohatera, co jest w zasadzie odwrotnością fabuły "*Exodusu*".
 5. **Malcolm XD - "*Emigracja*"**: memiczna powieść o emigracji - czyli wątek luźno zbieżny z tym, co pojawia się w "*Exodusie*".
 

@@ -30,7 +30,7 @@ Książkę musiałem oddać już następnego dnia, a i tak zdążyłem przeczyta
 
 ## Warto przeczytać również
 
-1. **Aneta Prymaka-Oniszk** - "*Kamienie musiały polecieć*": ten reportaż dużo bardziej szczegółowo wyjaśnia historię prawosławnej ludności Podlasia w ubiegłym stuleciu.
+1. **Aneta Prymaka-Oniszk - "*Kamienie musiały polecieć*"**: ten reportaż dużo bardziej szczegółowo wyjaśnia historię prawosławnej ludności Podlasia w ubiegłym stuleciu.
 2. [**Anna Romaniuk - "*Orzeszkowo 14. Historie z Podlasia*"**]({% post_url 2025-06-07-zajawka-orzeszkowo-14 %}): zbiór esejów o niedalekich okolicach tytułowych miejscowości opisanych w książce Jerzego Plewy.
 
 ## Dodatkowe linki

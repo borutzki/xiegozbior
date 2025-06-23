@@ -29,8 +29,8 @@ Zatem nie jest to książka dla osób, które cenią sobie spójność historii 
 ## Warto przeczytać również
 
 1. **Henry David Thoreau - "*Walden*"**: poetyckie opisy przyrody i relacji międzyludzkich jednoznacznie przypomniały mi eseje tego amerykańskiego transcendentalisty.
-2. **Aneta Prymaka-Oniszk** - "*Kamienie musiały polecieć*": drugi reportaż Wydawnictwa Czarnego na temat Podlasia, po który sięgnę za kilka dni i z pierwszej ręki dowiedziałem się, że warto.
-3. **Ewelina Sadanowicz - "*Szeptuchy*"**: antropologiczna monografia którą aktualnie czytam, a która porusza temat wiejskiej kultury Podlasia z bardziej analitycznego kąta.
+2. [**Aneta Prymaka-Oniszk - "*Kamienie musiały polecieć*"**]({% post_url 2025-06-23-zajawka-kamienie-musialy-poleciec %}): drugi reportaż Wydawnictwa Czarnego na temat Podlasia, po który sięgnę za kilka dni i z pierwszej ręki dowiedziałem się, że warto.
+3. [**Ewelina Sadanowicz - "*Szeptuchy*"**]({% post_url 2025-06-16-zajawka-szeptuchy %}): antropologiczna monografia którą aktualnie czytam, a która porusza temat wiejskiej kultury Podlasia z bardziej analitycznego kąta.
 4. **Kamil Janicki - "*Cywilizacja Słowian*"**: myślę, że słowiański kontekst to coś, co warto znać w naszym kręgu kulturowym. Zwłaszcza, gdy chce się zwiedzać taki region, jak właśnie Podlasie.
 
 ## Dodatkowe linki

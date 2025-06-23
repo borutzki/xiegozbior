@@ -14,7 +14,7 @@ image: /assets/xiazki/aneta_prymaka_oniszk_kamienie_musialy_poleciec.jpg
 
 ---
 
-**Opowiada, wyjaśnia, weryfikuje i oburza – tak w skrócie można opisać reportaż "_Kamienie musiały polecieć_", którego autorką jest Aneta Prymaka-Oniszk. Ta oparta na historii jednej rodziny książka jest przystępnym zarysem historii Podlasia.**
+**Opowiada, wyjaśnia, weryfikuje i oburza – tak w skrócie można opisać reportaż "*Kamienie musiały polecieć. Wymazywana przeszłość Podlasia*", którego autorką jest Aneta Prymaka-Oniszk. Ta oparta na historii jednej rodziny książka jest przystępnym zarysem historii Podlasia.**
 
 <!--more-->
 
@@ -22,9 +22,9 @@ Punktem wyjścia reportażu jest śmierć dziadka autorki z rąk partyzantów Ar
 
 Autorka dość szybko dochodzi do wniosku, że wiele rzeczy w historii rodowej ma drugie dno. I jest ono ściśle związane z historią całego regionu. Dlatego czytelnik może tu znaleźć wiele historii, które - choć odmienne - splatają się w jedną narrację.
 
-Dobra sytuacja materialna przodków rodziny przed _bieżeństwem_ i ich próby ustatkowania się już po powrocie z niego.
+Dobra sytuacja materialna przodków rodziny przed *bieżeństwem* i ich próby ustatkowania się już po powrocie z niego.
 
-Propaganda "_Polski dla Polaków_" dwudziestolecia międzywojennego niechętna wobec ludności prawosławnej.
+Propaganda "*Polski dla Polaków*" dwudziestolecia międzywojennego niechętna wobec ludności prawosławnej.
 
 Domniemana sympatia ludności ruskiej wobec Armii Czerwonej.
 
@@ -42,10 +42,10 @@ Zdecydowanie warto po tę książkę sięgnąć - zwłaszcza w dobie rosnącyc
 
 ## Warto przeczytać również
 
-1. [**Anna Romaniuk - "_Orzeszkowo 14. Historie z Podlasia_"**]({% post_url 2025-06-07-zajawka-orzeszkowo-14 %}): wspomniany już kilka razy zbiór esejów o życiu na podlasiu, z dodatkowym ujęciem wątku AK.
-2. [**Ewelina Sadanowicz - "_Szeptuchy_"**]({% post_url 2025-06-16-zajawka-szeptuchy %}): wątek kultury ludowej, którego w innych książkach o Podlasiu trochę mi zabrakło.
-3. [**Jerzy Plewa - "_Lady, Leniewo, Podrzeczany_"**]({% post_url 2025-06-18-zajawka-lady-leniewo-podrzeczany %}): krótka historia ogólna regionu z albumem zdjęć z trzech tytułowych miejscowości.
-4. **Michał Bilewicz - "_Traumaland_"**: ciekawie zderza mi się idee przedstawione przez Bilewicza w kontekście traumy międzypokoleniowej z tym, co opisała autorka przedstawionego w niniejszym wpisie reportażu.
+1. [**Anna Romaniuk - "*Orzeszkowo 14. Historie z Podlasia*"**]({% post_url 2025-06-07-zajawka-orzeszkowo-14 %}): wspomniany już kilka razy zbiór esejów o życiu na podlasiu, z dodatkowym ujęciem wątku AK.
+2. [**Ewelina Sadanowicz - "*Szeptuchy*"**]({% post_url 2025-06-16-zajawka-szeptuchy %}): wątek kultury ludowej, którego w innych książkach o Podlasiu trochę mi zabrakło.
+3. [**Jerzy Plewa - "*Lady, Leniewo, Podrzeczany*"**]({% post_url 2025-06-18-zajawka-lady-leniewo-podrzeczany %}): krótka historia ogólna regionu z albumem zdjęć z trzech tytułowych miejscowości.
+4. **Michał Bilewicz - "*Traumaland*"**: ciekawie zderza mi się idee przedstawione przez Bilewicza w kontekście traumy międzypokoleniowej z tym, co opisała autorka przedstawionego w niniejszym wpisie reportażu.
 
 ## Dodatkowe linki
 

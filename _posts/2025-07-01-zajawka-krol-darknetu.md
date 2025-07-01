@@ -34,7 +34,7 @@ Tę książkę polecam każdemu, kogo zainteresował choć jeden wątek z tej za
 
 1. **Edward Snowden - "*Pamięć Nieulotna*"**: autobiografia Snowdena pokazuje, że służby USA nie zostały w miejscu jeżeli chodzi o inwigilację w sieci.
 2. **Kevin Mitnick - "*Niewidzialny w sieci*"**: jeżeli komuś się wydaje, że sieć Tor czy w ogóle dbanie o prywatność w sieci są tematami skomplikowanymi, to ta książka Mitnicka powinna nieco odczarować ten pogląd.
-3. **Krzysztof Wosiński - "*OSINT - Nowy wymiar poszukiwań w sieci*"**: niektóre techniki śledcze opisane w "*Królu darknetu*" są ogólnie wykorzystywane do śledztw w sieci, a ta przekrojowa książka przedstawia je nieco szerzej.
+3. [**Krzysztof Wosiński - "*OSINT - Nowy wymiar poszukiwań w sieci*"**]({% post_url 2025-03-16-zajawka-osint %}): niektóre techniki śledcze opisane w "*Królu darknetu*" są ogólnie wykorzystywane do śledztw w sieci, a ta przekrojowa książka przedstawia je nieco szerzej.
 
 ## Dodatkowe linki
 

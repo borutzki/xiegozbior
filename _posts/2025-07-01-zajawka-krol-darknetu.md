@@ -24,7 +24,7 @@ W książce omówiono sporo szczegółów związanych z działalnością strony.
 
 Ulbricht był radykalnym libertarianinem, który chciał swoje przekonania wprowadzać w życie. *Silk Road* był projektem jego życia, który poprzez umożliwienie dostępu do zakazanych towarów miał doprowadzić do legalizacji narkotyków i osłabienia państwowej kontroli. W zasadzie, Ulbricht stworzył Silk Road dla idei - co zdaje się potwierdzać fakt, że mimo milionów na koncie, cały jego dobytek stanowiły laptop i dwa worki na śmieci z ubraniami.
 
-Wątek śledztwa natomiast pokazuje, że aparat państwowy USA bywa nieudolny. Kilka departamentów może prowadzić to samo śledztwo i utknąć - każdy z innym zbiorem informacji, które razem mogłyby je rozwiązać
+Wątek śledztwa natomiast pokazuje, że aparat państwowy USA bywa nieudolny. Kilka departamentów może prowadzić to samo śledztwo i utknąć - każdy z innym zbiorem informacji, które razem mogłyby je rozwiązać.
 
 Do dziś obserwujemy skutki wydarzeń opisanych w tej książce. Kryptowaluty wciąż budzą skojarzenie z nielegalnymi zakupami w internecie. Sieć Tor wciąż kojarzy się z biznesami działającymi na pograniczu prawa. A oprócz tego, legislatorzy na różnych szczeblach niechętnie patrzą na szyfrowanie w aplikacjach konsumenckich.
 

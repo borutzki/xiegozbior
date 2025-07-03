@@ -29,7 +29,7 @@ Podsumuję to krótko. Nadal utrzymuję, że czegoś się z tej książki dowie
 
 ## Warto przeczytać również
 
-1. **Nick Bilton - "*Król darknetu*"**: reportaż opisujący Silk Road, jedną z przyczyn złej sławy kryptowalut.
+1. [**Nick Bilton - "*Król darknetu*"**]({% post_url 2025-07-01-zajawka-krol-darknetu %}): reportaż opisujący Silk Road, jedną z przyczyn złej sławy kryptowalut.
 2. **Klaus Schwab - "*The Fourth Industrial Revolution*"**: pośród wielu innych kwestii, pojawia się w tej książce również spojrzenie ekonomisty na to, w jaki sposób kryptowaluty mogą być przełomową technologią.
 3. **Kevin Mitnick - "*Niewidzialny w sieci*"**: tu kryptowaluty pojawiają się jeszcze jako środek umożliwiający zachowanie prywatności w sieci.
 

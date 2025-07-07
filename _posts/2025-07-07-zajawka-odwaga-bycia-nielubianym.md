@@ -2,7 +2,7 @@
 layout: post
 title: "Ichiro Kishimi,  Fumitake Koga - Odwaga bycia nielubianym"
 category: zajawki
-date: 2025-07-06
+date: 2025-07-07
 author: Kacper Borucki
 excerpt_separator: <!--more-->
 start: 2025-06-23

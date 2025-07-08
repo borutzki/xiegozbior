@@ -1,0 +1,57 @@
+---
+layout: page
+permalink: /oceny/
+title: Oceny
+---
+
+<div id="archives">
+    {% comment %}
+    Pozbieranie wszystkich unikalnych ocen z postów
+    `compact` usuwa puste wartości
+    {% endcomment %}
+    {% assign oceny = site.posts | map: 'ocena' | compact | uniq | sort | reverse %}
+
+    {% comment %}
+    Przypisanie tytułów do ocen
+    {% endcomment %}
+    {% for ocena in (1..10) reversed %}
+    {% case ocena %}
+    {% when 10 %}
+    {% assign ocena_title = "Arcydzieła" %}
+    {% when 9 %}
+    {% assign ocena_title = "Zapamiętam na bardzo długo" %}
+    {% when 8 %}
+    {% assign ocena_title = "Zapamiętam na długo" %}
+    {% when 7 %}
+    {% assign ocena_title = "Zaintrygowało mnie to" %}
+    {% when 6 %}
+    {% assign ocena_title = "Coś z tego wyniosłem..." %}
+    {% when 5 %}
+    {% assign ocena_title = "Było okej" %}
+    {% when 4 %}
+    {% assign ocena_title = "Nie porwało mnie" %}
+    {% when 3 %}
+    {% assign ocena_title = "Czegoś tu zabrakło..." %}
+    {% when 2 %}
+    {% assign ocena_title = "Nie polecam" %}
+    {% when 1 %}
+    {% assign ocena_title = "Zmarnowałem czas" %}
+    {% else %}
+    {% assign ocena_title = "Inne" %}
+    {% endcase %}
+
+    {% assign posty_z_ocena = site.posts | where: 'ocena', ocena | sort: 'title' %}
+
+    <h2>{{ ocena }}/10: {{ ocena_title }}</h2>
+    {% if posty_z_ocena.size > 0 %}
+    <ul>
+        {% for post in posty_z_ocena %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p><em>Brak książek z tą oceną</em></p>
+    {% endif %}
+    {% endfor %}
+
+</div>

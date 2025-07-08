@@ -39,10 +39,10 @@ Na *Xięgozbiorze* można spodziewać się dodania następujących nowości:
 - [ ] polskie daty
 - [ ] możliwość manualnej zmiany motywu strony
 - [ ] system komentarzy
-- [ ] podstrona z książkami wg. ocen
 
 Natomiast już zaimplementowane funkcje to m.in.:
 
+- [x] podstrona z książkami wg. ocen
 - [x] ograniczenie rozmiaru obrazków (szybsze wczytywanie)
 - [x] paginacja strony głównej
 - [x] system archiwum i przeszukiwania wpisów po tagach / kategoriach

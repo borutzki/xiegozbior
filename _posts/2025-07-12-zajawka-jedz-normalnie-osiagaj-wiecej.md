@@ -40,3 +40,4 @@ Polecam tę książkę każdemu, kto nadal uważa że woda z cytryną odchudza,
 - [Strona książki na Lubimyczytać](https://lubimyczytac.pl/ksiazka/5040976/jedz-normalnie-osiagaj-wiecej)
 - [Strona książki na Goodreads](https://www.goodreads.com/book/show/68278827-jedz-normalnie-osi-gaj-wi-cej)
 - [Strona książki na stronie wydawnictwa Altenberg](https://altenberg.pl/books/jedz-normalnie-dietetyka-nienazarty/)
+- [Strona Dietetyki #NieNaŻarty](https://dietetykanienazarty.pl/)

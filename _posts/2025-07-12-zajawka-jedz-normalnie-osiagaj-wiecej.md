@@ -18,7 +18,7 @@ image: /assets/xiazki/arkadiusz_matras_jedz_normalnie.jpg
 
 <!--more-->
 
-Długo odkładałem tę książkę, bo zawsze było "coś ciekawszego" pod ręką. To był błąd. "*Jedz normalnie*" to książka, w której praktycznie każdy rozdział podsuwa wskazówki, które można od razu wdrożyć w swoim jadłospisie, w celu ogólnej poprawy zdrowia. Po lekturze moja lista zakupów wygląda nieco inaczej niż przed.
+Długo odkładałem tę lekturę, bo zawsze było "coś ciekawszego" pod ręką. To był błąd. "*Jedz normalnie*" to książka, w której praktycznie każdy rozdział podsuwa wskazówki, które można od razu wdrożyć w swoim jadłospisie, w celu ogólnej poprawy zdrowia. Po lekturze moja lista zakupów wygląda nieco inaczej niż przed.
 
 Dla jasności - ta książka nie skupia się na podsuwaniu pomysłów na dietę. Jej *clou* to uporządkowanie podstawowej wiedzy na temat zdrowego odżywiania. Dlaczego tyjemy, ile jajek można zjeść w ciągu tygodnia, czy ryby z rtęcią są zdrowe?
 

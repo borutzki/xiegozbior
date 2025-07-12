@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arkadiusz Matras - Jedz normalnie"
+title: "Arkadiusz Matras - Jedz normalnie. Osiągaj więcej"
 category: zajawki
 date: 2025-07-12
 author: Kacper Borucki

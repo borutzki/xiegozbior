@@ -5,7 +5,7 @@ category: zajawki
 date: 2025-07-22
 author: Kacper Borucki
 excerpt_separator: <!--more-->
-start: 2025-07-9
+start: 2025-07-09
 end: 2025-07-21
 isbn: 978-0-13-449416-6
 tags: ["Robert C. Martin", "Uncle Bob", "programowanie", "architektura", "english"]
